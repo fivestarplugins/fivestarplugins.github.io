@@ -1,0 +1,29 @@
+<nav class="sidebar" role="navigation">
+	<h2 class="screen-reader">{{ site.data[page.slug].title }} Documentation Menu</h2>
+	<ul>
+
+		{% for section in site.data[page.slug][page.menu] %}
+		<li>
+			<a href="/{{ site.data[page.slug].base }}/{{ section.page }}">
+				{{ section.title }}
+			</a>
+
+			{% if section.items != null %}
+			<ul>
+
+				{% for item in section.items %}
+				<li>
+					<a href="/{{ site.data[page.slug].base }}/{{ item.page }}">
+						{{ item.title }}
+					</a>
+				</li>
+				{% endfor %}
+
+			</ul>
+			{% endif %}
+
+		</li>
+		{% endfor %}
+
+	</ul>
+</nav>

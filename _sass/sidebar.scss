@@ -1,0 +1,35 @@
+//
+// Sidebar navigation
+//
+.sidebar {
+	font-size: $font-sml;
+	line-height: $line-sml;
+	background: $bg-lift;
+	box-shadow: 0 0 2px rgba(0,0,0,0.2);
+
+	ul {
+		@extend .unstyled-list;
+	}
+
+	a {
+		display: block;
+		padding: 0.75em 1em;
+		border-bottom: $border;
+	}
+
+	li:last-child a {
+		border: none;
+	}
+
+	> ul > li > a {
+		background: $bg-pop;
+		border: none;
+		color: $text-pop-bg;
+		opacity: 1;
+
+		&:hover,
+		&:focus {
+			color: #fff;
+		}
+	}
+}

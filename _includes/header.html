@@ -1,0 +1,18 @@
+<header role="banner">
+	<div class="header-wrapper">
+		<div class="title">
+			{{ site.data[page.slug].title }}
+		</div>
+		<nav role="navigation">
+			<ul>
+				{% for doc in site.data[page.slug].docs %}
+				<li>
+					<a href="/{{ site.data[page.slug].base }}/{{ doc.page }}">
+						{{ doc.title }}
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</nav>
+	</div>
+</header>

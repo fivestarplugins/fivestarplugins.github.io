@@ -1,0 +1,32 @@
+title: Good Reviews for WordPress
+base: plugins/good-reviews-wp
+
+docs:
+  - title: User Guide
+    page: user
+
+user:
+  - title: Getting Started
+    page: user
+    flags: getting-started
+    items:
+    - title: Install Plugin
+      page: user/getting-started/install
+    - title: Add your Reviews
+      page: user/getting-started/add
+    - title: Display your Reviews
+      page: user/getting-started/display
+  - title: FAQ
+    page: user/faq
+    flags: faq
+    items:
+    - title: Is there a shortcode to print all of my reviews?
+      page: user/faq#shortcode
+    - title: Can users submit reviews with this plugin?
+      page: user/faq#user-submit
+    - title: Can I customize the output of the reviews?
+      page: user/faq#customize-output
+    - title: Is there a template function I can use to print reviews?
+      page: user/faq#template-function
+    - title: How do I contact support?
+      page: user/faq#support

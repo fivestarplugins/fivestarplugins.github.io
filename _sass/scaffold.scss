@@ -1,0 +1,76 @@
+//
+// Layout
+//
+
+.header-wrapper {
+	@extend .clearfix;
+}
+
+.content-wrapper,
+.footer-wrapper {
+	@extend .clearfix;
+	margin: $big 40px;
+}
+
+.sidebar {
+	margin-top: 100px;
+}
+
+.content article,
+footer nav > ul {
+	max-width: 35em;
+	margin: 0 auto;
+}
+
+@media(min-width: 992px) {
+
+	.header-wrapper,
+	.content-wrapper,
+	.footer-wrapper {
+		margin-left: auto;
+		margin-right: auto;
+		width: 992px - 80;
+	}
+
+	.has-sidebar .content,
+	footer nav {
+		float: right;
+		width: 992px - 300 - 80 - 40;
+	}
+
+	.sidebar {
+		float: left;
+		width: 300px;
+		margin-top: 0;
+	}
+
+}
+
+@media(min-width: 1200px) {
+
+	.header-wrapper,
+	.content-wrapper,
+	.footer-wrapper {
+		width: 1200px - 80;
+	}
+
+	.has-sidebar .content,
+	footer nav {
+		width: 1200px - 300 - 80 - 40;
+	}
+}
+
+@media(min-width: 1400px) {
+
+	.header-wrapper,
+	.content-wrapper,
+	.footer-wrapper {
+		width: 1400px - 80;
+	}
+
+	.has-sidebar .content,
+	footer nav {
+		width: 1400px - 300 - 80 - 40;
+		padding-right: 300px;
+	}
+}

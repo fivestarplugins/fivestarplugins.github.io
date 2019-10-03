@@ -1,0 +1,25 @@
+plugins:
+  - title: Restaurant Reservations
+    page: restaurant-reservations
+
+  - title: Food and Drink Menu
+    page: food-and-drink-menu
+
+  - title: Business profile
+    page: business-profile
+
+  - title: Good Reviews for WP
+    page: good-reviews-wp
+
+themes:
+  - title: Augustan
+    page: augustan
+
+  - title: Luigi
+    page: luigi
+
+  - title: The Spot
+    page: thespot
+
+  - title: Plate Up
+    page: plate-up

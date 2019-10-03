@@ -1,0 +1,47 @@
+title: Business Profile
+base: plugins/business-profile
+
+docs:
+  - title: User Guide
+    page: user
+  - title: Developer Documentation
+    page: developer
+
+user:
+  - title: Getting Started
+    page: user
+    flags: getting-started
+    items:
+    - title: Install Plugin
+      page: user/getting-started/install
+    - title: Quick Setup
+      page: user/getting-started/setup
+    - title: Multiple Locations
+      page: user/getting-started/locations
+
+  - title: FAQ
+    page: user/faq
+    flags: faq
+    items:
+    - title: Can I show or hide something with the shortcode?
+      page: user/faq#shortcode
+    - title: It asks me for a Google Maps API Key but I don't know what it is or how to get it.
+      page: user/faq#google-maps-api-key
+    - title: Google Maps shows my business in the wrong location.
+      page: user/faq#map-latlon
+    - title: What's a Schema Type?
+      page: user/faq#schema-type
+    - title: How do I contact support?
+      page: user/faq#support
+
+developer:
+  - title: Developer Introduction
+    page: developer
+    flags: developer
+    items:
+      - title: Theme Support
+        page: developer/theme-support
+      - title: Templates
+        page: developer/templates
+      - title: Key Filters
+        page: developer/filters

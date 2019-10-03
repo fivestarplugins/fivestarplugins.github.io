@@ -1,0 +1,39 @@
+// Global variables
+$bg:         #efefea;
+$bg-lift:    #fff;
+$bg-shade:   #e5e5e0;
+$bg-pop:     #883804;
+
+$text:        rgba(0,0,0,0.87);
+$text-light:  rgba(0,0,0,0.75);
+$text-pop-bg: rgba(255,255,255,0.8);
+
+$pop:            #D24C2B;
+$pop-lift:       lighten($pop, 10%);
+$pop-light:      #d2bc2b;
+$pop-light-lift: lighten($pop-light, 10%);
+
+$link:          #2D30E0;
+$link-visited:  #6F35A0;
+
+$font:          Lora, serif;
+$font-sml:      16px;
+$font-base:     18px;
+$font-lead:     24px;
+$line-sml:      20px;
+$line-base:     30px;
+$line-lead:     30px;
+
+$normal:     400;
+$bold:       700;
+
+$half:       5px;
+$base:       10px;
+$double:     20px;
+$triple:     30px;
+$quadruple:  40px;
+$big:        60px;
+$huge:       120px;
+
+$border:       1px solid rgba(0,0,0,0.1);
+$border-light: 1px solid rgba(0,0,0,0.05);

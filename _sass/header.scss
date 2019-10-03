@@ -1,0 +1,72 @@
+//
+// Global header
+//
+.back-links {
+	padding: 10px 40px;;
+	font-size: 14px;
+	text-align: right;
+
+	a {
+		display: inline-block;
+		line-height: 20px;
+		vertical-align: bottom;
+		opacity: 1;
+
+		img {
+			display: inline-block;
+			height: 20px;
+			margin: 5px 0;
+		}
+
+		span {
+			line-height: 30px;
+			vertical-align: top;
+			margin-left: 0.5em;
+		}
+	}
+}
+
+header {
+	padding: $big 40px;
+	background: $bg-pop;
+	color: $text-pop-bg;
+
+	.title {
+		margin-bottom: $half;
+		font-size: $font-lead;
+		font-weight: $bold;
+		line-height: $line-lead;
+		color: #fff;
+	}
+
+	a {
+		font-weight: $normal;
+		text-decoration: underline;
+		color: $text-pop-bg;
+		opacity: 1;
+
+		&:visited {
+			color: $text-pop-bg;
+		}
+
+		&:hover,
+		&:focus {
+			color: #fff;
+		}
+	}
+
+	ul {
+		@extend .unstyled-list;
+		font-size: $font-sml;
+		line-height: $line-sml;
+
+		li {
+			display: inline-block;
+			margin-right: 1em;
+
+			&:last-child {
+				margin-right: 0;
+			}
+		}
+	}
+}

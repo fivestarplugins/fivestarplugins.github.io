@@ -1,0 +1,149 @@
+title: Restaurant Reservations
+base: plugins/restaurant-reservations
+
+docs:
+  - title: User Guide
+    page: user
+  - title: Developer Documentation
+    page: developer
+
+user:
+  - title: Getting Started
+    page: user
+    flags: getting-started
+    items:
+    - title: Install Plugin
+      page: user/getting-started/install
+
+    - title: Quick Setup
+      page: user/getting-started/setup
+
+  - title: Manage Bookings
+    page: user/manage
+    flags: manage
+    items:
+    - title: Confirm and Reject Bookings
+      page: user/manage/confirm-reject-bookings
+
+    - title: Find Bookings
+      page: user/manage/find-bookings
+
+    - title: Send Emails
+      page: user/manage/send-emails
+
+    - title: Setting up a Booking Manager
+      page: user/manage/booking-manager
+
+    - title: Banning Abusive Customers
+      page: user/manage/ban-customers
+
+    - title: Multi-location Bookings
+      page: user/manage/locations
+
+  - title: Configure Your Bookings
+    page: user/config
+    flags: config
+    items:
+    - title: General Settings
+      page: user/config/general
+
+    - title: Set the Booking Schedule
+      page: user/config/schedule
+
+    - title: Email Notifications
+      page: user/config/email-notifications
+
+  - title: Custom Fields (addon)
+    page: user/addon/custom-fields
+    flags: custom-fields
+    items:
+    - title: Install and Activate
+      page: user/addon/custom-fields/install
+
+    - title: Custom Fields FAQ
+      page: user/addon/custom-fields/faq
+
+  - title: Email Templates (addon)
+    page: user/addon/email-templates
+    flags: email-templates
+    items:
+    - title: Install and Activate
+      page: user/addon/email-templates/install
+
+    - title: Using the Email Designer
+      page: user/addon/email-templates/designer
+
+    - title: Email Templates FAQ
+      page: user/addon/email-templates/faq
+
+  - title: MailChimp (addon)
+    page: user/addon/mailchimp
+    flags: mailchimp
+    items:
+    - title: Install and Activate
+      page: user/addon/mailchimp/install
+
+    - title: Connect to MailChimp
+      page: user/addon/mailchimp/connect
+
+    - title: MailChimp FAQ
+      page: user/addon/mailchimp/faq
+
+  - title: Export Bookings (addon)
+    page: user/addon/export-bookings
+    flags: export-bookings
+    items:
+    - title: Install and Activate
+      page: user/addon/export-bookings/install
+
+    - title: Generate an Export
+      page: user/addon/export-bookings/export
+
+    - title: Export Bookings FAQ
+      page: user/addon/export-bookings/faq
+
+  - title: FAQ
+    page: user/faq
+    flags: faq
+    items:
+    - title: Is there a shortcode to print the booking form?
+      page: user/faq#shortcode
+
+    - title: Can I change the format of the date or time?
+      page: user/faq#date-time-format
+
+    - title: The datepicker or timepicker is not working.
+      page: user/faq#no-datepicker
+
+    - title: I'm not receiving notification emails for new bookings.
+      page: user/faq#no-emails
+
+    - title: Can I make the phone number required?
+      page: user/faq#required-phone-number
+
+    - title: Can I translate the booking form?
+      page: user/faq#translate
+
+    - title: I set Early or Late Bookings restrictions, but I scan still book during that time
+      page: user/faq#early-late-restrictions
+
+    - title: I want to add a field to the form. Can I do that?
+      page: user/faq#custom-fields
+
+    - title: Is this plugin ready for GDPR?
+      page: user/faq#gdpr
+
+    - title: Is this compatible with WPML?
+      page: user/faq#wpml
+
+    - title: The date or time of a booking is incorrect in emails, and I'm using qTranslate.
+      page: user/faq/#qtranslate
+
+    - title: How do I contact support?
+      page: user/faq#support
+
+    - title: Can I get a refund?
+      page: user/faq#refund
+
+    - title: I'm in over my head. Where can I get more hands-on help?
+      page: user/faq#more-help

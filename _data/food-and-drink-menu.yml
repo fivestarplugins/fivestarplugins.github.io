@@ -1,0 +1,103 @@
+title: Food and Drink Menu
+base: plugins/food-and-drink-menu
+
+docs:
+  - title: User Guide
+    page: user
+  - title: Developer Documentation
+    page: developer
+
+user:
+  - title: Getting Started
+    page: user
+    flags: getting-started
+    items:
+    - title: Install Plugin
+      page: user/getting-started/install
+
+    - title: Create a Menu
+      page: user/getting-started/create-menu
+
+    - title: Display your Menu
+      page: user/getting-started/display-menu
+
+  - title: Advanced Topics
+    page: user/advanced
+    flags: advanced
+    items:
+    - title: Quick Price Editing
+      page: user/advanced/quick-price-edit
+
+    - title: Page Templates
+      page: user/advanced/page-templates
+
+    - title: Shortcodes
+      page: user/advanced/shortcodes
+
+    - title: Settings
+      page: user/advanced/settings
+
+    - title: Build menus with complex layouts
+      page: user/advanced/complex-layouts
+
+  - title: Pro Addon
+    page: user/pro
+    flags: pro
+    items:
+    - title: Discounted Prices
+      page: user/pro/discounted-prices
+
+    - title: Sales, Features and Specials
+      page: user/pro/specials
+
+    - title: Menu Icons such as Spicy, Vegetarian, Organic and more
+      page: user/pro/menu-icons
+
+    - title: Sources and Suppliers
+      page: user/pro/sources
+
+    - title: Set up your Google Maps API Key
+      page: user/pro/google-map-api-key
+
+  - title: FAQ
+    page: user/faq
+    flags: faq
+    items:
+    - title: How do I change the order of items on my menu?
+      page: user/faq#menu-item-order
+
+    - title: How do I show multiple prices?
+      page: user/faq#multiple-prices
+
+    - title: I have a two-column menu but it displays in one column.
+      page: user/faq#columns-collapsed
+
+    - title: How can I show that a collection of dishes come with a side?
+      page: user/faq#section-description
+
+    - title: Can I have two different sections in different menus with the same name?
+      page: user/faq#duplicate-section-names
+
+    - title: Can I customize the look and layout of my menu?
+      page: user/faq#customize
+
+    - title: How can I indicate that we add a gratuity?
+      page: user/faq#footer
+
+    - title: I need to mark some dishes as vegetarian, spicy or similar?
+      page: user/faq#menu-icons
+
+    - title: Is this compatible with WPML?
+      page: user/faq#wpml
+
+    - title: I changed the size of my Menu Item photos, but the image is still the old size.
+      page: user/faq#image-sizes
+
+    - title: How do I contact support?
+      page: user/faq#support
+
+    - title: Can I get a refund?
+      page: user/faq#refund
+
+    - title: I'm in over my head. Where can I get more hands-on help?
+      page: user/faq#more-help

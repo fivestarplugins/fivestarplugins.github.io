@@ -1,0 +1,56 @@
+//
+// Mix-ins and helper classes
+//
+
+// Internatioanl box-sizing awareness day
+// See: https://css-tricks.com/international-box-sizing-awareness-day/
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+// Unstyled list
+.unstyled-list {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+// Clear floats
+.clearfix {
+	&:before,
+	&:after {
+		content: " ";
+		display: table;
+	}
+	&:after {
+		clear: both;
+	}
+}
+
+.screen-reader {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	left: -2000px;
+
+	&:focus {
+		background-color: #fff;
+		border-radius: 3px;
+		box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+		-webkit-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+		clip: auto !important;
+		color: #000;
+		display: block;
+		font-size: 14px;
+		height: auto;
+		line-height: normal;
+		padding: 1em;
+		position: absolute;
+		left: 1em;
+		top: 1em;
+		text-decoration: none;
+		width: auto;
+		z-index: 100000;
+	}
+}

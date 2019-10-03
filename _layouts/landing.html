@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	{% include head.html %}
+	<body class="landing">
+		{% include back-links.html %}
+		<div class="content-wrapper">
+			<div class="content" role="main">
+				<article>
+					<div class="entry-content">
+						<h1>{{page.title}}</h1>
+						{% if page.content_include %}
+							{% capture markdown_include %}{% include {{ page.content_include }} %}{% endcapture %}
+							{{ markdown_include | markdownify }}
+							{{ content }}
+						{% else %}
+							{{ content }}
+						{% endif %}
+					</div>
+				</article>
+			</div>
+			{% include nav.html %}
+		</div>
+		{% include footer.html %}
+		{% include google-analytics.html %}
+	</body>
+</html>

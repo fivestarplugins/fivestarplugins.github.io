@@ -1,0 +1,109 @@
+title: Plate Up
+base: themes/plate-up
+
+docs:
+  - title: User Guide
+    page:
+
+user:
+  - title: Getting Started
+    page:
+    flags: getting-started
+    items:
+    - title: Install Theme
+      page: user/getting-started/install
+
+    - title: Activate Plugins
+      page: user/getting-started/activate-plugins
+
+    - title: Install Demo Content
+      page: user/getting-started/install-demo-content
+
+    - title: Recommended First Steps
+      page: user/getting-started/first-steps
+
+  - title: FAQ
+    page: user/faq
+    flags: faq
+    items:
+    - title: How do I change the colors of my site?
+      page: user/faq#colors
+
+    - title: How do I add my logo?
+      page: user/faq#logo
+
+    - title: How do I build a homepage like the demo?
+      page: user/faq#homepage
+
+    - title: How do I add contact details to my site?
+      page: user/faq#footer-address
+
+    - title: How do I build my restaurant's menu?
+      page: user/faq#menu
+
+    - title: How do I take reservations for my restaurant?
+      page: user/faq#reservations
+
+    - title: How do I display my restaurant's contact details on any page?
+      page: user/faq#business-profile
+
+    - title: How do I add reviews of my restaurant?
+      page: user/faq#reviews
+
+    - title: How do I promote my restaurant's events?
+      page: user/faq#events
+
+    - title: How do I improve my restaurant's SEO?
+      page: user/faq#seo
+
+    - title: How do I add icons which link to my social media profiles?
+      page: user/faq#social-profile-menu
+
+    - title: How can I create a photo gallery that opens in a lightbox like the demo?
+      page: user/faq#photo-gallery
+
+    - title: Can I hide the sidebar on just one page?
+      page: user/faq#full-width-page-template
+
+    - title: Can I make changes to the CSS styles?
+      page: user/faq#css-changes
+
+    - title: How can I change the fonts?
+      page: user/faq#typecase
+
+    - title: How do I contact support?
+      page: user/faq#support
+
+    - title: Can I get a refund?
+      page: user/faq#refund
+
+    - title: I'm in over my head. Where can I get more hands-on help?
+      page: user/faq#more-help
+
+  - title: Recommended Plugins
+    page: user/plugins
+    flags: plugins
+    items:
+    - title: Food and Drink Menu
+      page: user/plugins#food-and-drink-menu
+
+    - title: Restaurant Reservations
+      page: user/plugins#restaurant-reservations
+
+    - title: Business Profile
+      page: user/plugins#business-profile
+
+    - title: Good Reviews for WordPress
+      page: user/plugins#good-reviews-wp
+
+    - title: Ninja Forms
+      page: user/plugins#ninja-forms
+
+    - title: Yoast SEO
+      page: user/plugins#yoast-seo
+
+    - title: Event Organiser
+      page: user/plugins#event-organiser
+
+  - title: Changelog
+    page: changelog

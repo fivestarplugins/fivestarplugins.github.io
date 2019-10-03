@@ -1,0 +1,50 @@
+<footer role="contentinfo">
+	<a name="footer"></a>
+	<div class="footer-wrapper">
+		<div class="brand">
+			<a class="logo" href="https://www.fivestarplugins.com">
+				<img src="/img/logo-521x80.png">
+			</a>
+			<div class="tagline">
+				Build better restaurant websites with <a href="https://www.fivestarplugins.com">Five Star Plugins</a>.
+			</div>
+		</div>
+		<nav role="navigation">
+			<ul>
+				<li class="all">
+					<a href="/">
+						All Documentation
+					</a>
+				</li>
+				<li class="plugins">
+					<a href="/plugins">
+						Plugins
+					</a>
+					<ul>
+						{% for section in site.data.footer.plugins %}
+							<li>
+								<a href="/plugins/{{ section.page }}">
+									{{ section.title }}
+								</a>
+							</li>
+						{% endfor %}
+					</ul>
+				</li>
+				<li class="themes">
+					<a href="/themes">
+						Themes
+					</a>
+					<ul>
+						{% for section in site.data.footer.themes %}
+							<li>
+								<a href="/themes/{{ section.page }}">
+									{{ section.title }}
+								</a>
+							</li>
+						{% endfor %}
+					</ul>
+				</li>
+			</ul>
+		</nav>
+	</div>
+</footer>
