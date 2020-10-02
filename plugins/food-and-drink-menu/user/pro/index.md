@@ -2,8 +2,8 @@
 layout: default
 slug: food-and-drink-menu
 menu: user
-title: Food and Drink Menu Pro
+title: Five Star Restaurant Menu Premium
 ---
-The [Pro addon](https://www.fivestarplugins.com/plugin/five-star-restaurant-menu/) is a commercial extension to the Food and Drink Menu plugin which adds support for a number of features that are not needed by most restaurants.
+The [premium version](https://www.fivestarplugins.com/plugin/five-star-restaurant-menu/) adds several valuable features that will allow you to take you restaurant menu experience to next level.
 
-This section of the user guide describes how to use the features of the Pro addon for those who have purchased it. If you don't have it, you can [learn more about what the Pro addon offers](https://www.fivestarplugins.com/plugin/five-star-restaurant-menu/).
+This section of the user guide describes how to use the features of the premium version for those who have purchased it. If you don't have it, you can learn more about what is included in the premium version [here](https://www.fivestarplugins.com/plugin/five-star-restaurant-menu/).

@@ -28,4 +28,4 @@ The Pro addon displays the icons as an icon font so that their color can be chan
 
 ---
 
-*Menu Icons and Menu Item Flags are only available in the [Pro addon](../pro).*
+*Menu Icons and Menu Item Flags are only available in the [premium version](../pro).*

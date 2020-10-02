@@ -2,7 +2,7 @@
 layout: default
 slug: food-and-drink-menu
 menu: developer
-title: Food and Drink Menu Developer Documentation
+title: Five Star Restaurant Menu Developer Documentation (Archived)
 ---
 The developer documentation is for coders who want to learn how to extend the plugin with custom templates, plugin hooks and more.
 
@@ -10,11 +10,8 @@ The developer documentation is for coders who want to learn how to extend the pl
 
 ---
 
-The developer documentation is not complete. When it is, it will be a handy reference for every hook, as well as the place to find best practices for extending the plugin to ensure future compatibility.
+The developer documentation covers some old methods via which the plugin was modifiable by a developer. These are no longer supported and may no longer work as originally intended or at all. This section is left here for reference.
 
-Until then, I'll list are a bunch of resources you may find useful. If you've got a question, post on the [support forums](http://wordpress.org/support/plugin/food-and-drink-menu) or the [GitHub repository](https://github.com/NateWr/food-and-drink-menu).
-
-*Sign up for my [mailing list](https://www.fivestarplugins.com/about/mailing-list) to be notified when this documentation is complete.*
 
 ## Tutorials
 

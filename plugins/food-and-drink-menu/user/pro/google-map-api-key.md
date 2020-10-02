@@ -8,7 +8,7 @@ Google [now requires](https://googlegeodevelopers.blogspot.co.uk/2016/06/buildin
 
 Under **Menu > Settings**, you'll see a Google Maps API key field.
 
-![Screenshot of the API Key field in the Food and Drink Menu Pro settings](/img/google-maps-api-key/gmaps-key-enter-key.png)
+![Screenshot of the API Key field in the plugin settings](/img/google-maps-api-key/gmaps-key-enter-key.png)
 
 Click the link in the field description that will take you to the Google Maps website. Then find the following button on the Google Maps website which reads **Get a Key**.
 
@@ -36,7 +36,7 @@ Once you've set this up, click the **Create** button to generate your API key. I
 
 Paste that key into the API Key field under **Menu > Settings**. Then save your settings.
 
-![Screenshot of the API Key field in Food and Drink Menu Pro](/img/google-maps-api-key/gmaps-key-enter-key.png)
+![Screenshot of the API Key field in the plugin](/img/google-maps-api-key/gmaps-key-enter-key.png)
 
 Next, you'll need to enable the Static Maps API for your project. To do this, go to the **Library** section in the API Manager and click on the **Google Static Maps API**.
 

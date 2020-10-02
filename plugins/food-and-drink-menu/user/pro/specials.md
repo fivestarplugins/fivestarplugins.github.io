@@ -14,4 +14,4 @@ This option will display a prominent notice on this menu item with the selected 
 
 ---
 
-*Sales, Features and Specials are only available in the [Pro addon](../pro).*
+*Sales, Features and Specials are only available in the [premium version](../pro).*

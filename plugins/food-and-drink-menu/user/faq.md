@@ -18,7 +18,7 @@ If you want one Menu Item to be listed after another, make sure it's **Order** v
 
 Version 1.5 of the plugin adds support for setting multiple prices. If you don't see an option to add a price for a Menu Item, please make sure you've upgraded to the latest version.
 
-Additionally, the [Pro addon](https://www.fivestarplugins.com/plugins/five-star-restaurant-menu/) supports a discounted price.
+Additionally, the [premium version](https://www.fivestarplugins.com/plugins/five-star-restaurant-menu/) supports a discounted price.
 
 ## <a name="columns-collapsed"></a> I have a two-column menu but it displays in one column.
 
@@ -76,7 +76,7 @@ The Menu Footer is a great place to add details such as:
 
 ## <a name="menu-icons"></a> I need to mark some dishes as vegetarian, spicy or similar?
 
-The [Pro addon](pro) features a wide range of icons covering dietary needs, healthy choices and religious preferences. Learn more about the [menu icons](pro/menu-icons).
+The [premium version](pro) features a wide range of icons covering dietary needs, healthy choices and religious preferences. Learn more about the [menu icons](pro/menu-icons).
 
 
 ## <a name="wpml"></a> Is this compatible with WPML?
@@ -101,7 +101,7 @@ By default, the plugin sets the display size to 25% of the menu item width, and 
 
 I provide the best support for the free plugin that I'm able to provide for free. But there is only so much I'm able to do while keeping my business sustainable. Still, I'd encourage you to [post your support request on the official forums](http://wordpress.org/support/plugin/food-and-drink-menu) and I'll help out as best I can.
 
-If you have purchased the [Pro addon](pro), please reach out to me via the [support form on my website](https://www.fivestarplugins.com/about/support).
+If you have purchased the [premium version](pro), please reach out to ous via the [support form on our website](https://www.fivestarplugins.com/support-center/).
 
 {% include faq/refund.md %}
 

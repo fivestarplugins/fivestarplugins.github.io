@@ -14,4 +14,4 @@ When a discounted price is entered, the menu will automatically display the orig
 
 ---
 
-*Discounted prices are only available in the [Pro addon](../pro).*
+*Discounted prices are only available in the [premium version](../pro).*

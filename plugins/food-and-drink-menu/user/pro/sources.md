@@ -20,4 +20,4 @@ Google now requires that you have your own API key to display a map on your webs
 
 ---
 
-*Sources and Suppliers are only available in the [Pro addon](../pro).*
+*Sources and Suppliers are only available in the [premium version](../pro).*
