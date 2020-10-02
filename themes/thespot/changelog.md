@@ -5,7 +5,7 @@ menu: user
 title: Changelog
 ---
 ## 1.2.4 (2018-05-30)
-* Add: style the privacy consent field added in Restaurant Reservations v1.7.7
+* Add: style the privacy consent field added in Five Star Restaurant Reservations v1.7.7
 
 ## 1.2.3 (2016-05-25)
 * Fix: incorrect date for blog posts in blog index
@@ -57,12 +57,12 @@ title: Changelog
 ## 1.0.2 - 2015-01-05
 * Improve reviews archive template
 * Fix conflict between timepicker and Google maps
-* Implement changes in preparation for next release of Restaurant Reservations
+* Implement changes in preparation for next release of Five Star Restaurant Reservations
 * Fix problem with real-time updates to call to action and colors in customizer before settings are saved
 
 ## 1.0.1 - 2014-12-03
 * Add .pot file for translations
-* Improve optin fieldset for Restaurant Reservations MailChimp addon
+* Improve optin fieldset for Five Star Restaurant Reservations MailChimp addon
 * Fix smilies in post content
 
 ## 1.0 - 2014-11-18

@@ -4,7 +4,7 @@ slug: restaurant-reservations
 menu: user
 title: Email Notifications
 ---
-Restaurant Reservations sends email notifications when a booking is made, rejected or confirmed. On the **Bookings > Settings > Notifications** page you can customize these emails to fit your brand.
+Five Star Restaurant Reservations sends email notifications when a booking is made, rejected or confirmed. On the **Bookings > Settings > Notifications** page you can customize these emails to fit your brand.
 
 ![Screenshot of the notifications settings page](/img/{{ page.slug }}/settings-notifications.png)
 

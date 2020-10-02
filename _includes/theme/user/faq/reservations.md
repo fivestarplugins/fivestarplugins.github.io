@@ -1,6 +1,6 @@
 ## <a name="reservations"></a> How do I take reservations for my restaurant?
 
-This theme integrates with the free [Restaurant Reservations](http://wordpress.org/plugins/restaurant-reservations/) plugin.
+This theme integrates with the free [Five Star Restaurant Reservations](http://wordpress.org/plugins/restaurant-reservations/) plugin.
 
 Once the plugin is [installed and activated](/{{ site.data[page.slug].base}}/user/getting-started/activate-plugins), create a new page for your booking form. Then go to the **Bookings > Settings** page and select your **Booking Page**. The reservations form will automatically appear on this page.
 

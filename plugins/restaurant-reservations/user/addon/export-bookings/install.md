@@ -6,7 +6,7 @@ title: Install and Activate
 plugin_title: Export Bookings
 plugin_url: https://www.fivestarplugins.com/plugins/five-star-restaurant-reservations/export-bookings/
 plugin_zip: export-bookings-for-rtb.zip
-plugin_parent: Restaurant Reservations
+plugin_parent: Five Star Restaurant Reservations
 plugin_parent_url: https://www.fivestarplugins.com/plugins/five-star-restaurant-reservations/
 ---
 {% include plugins/install_addon.md %}

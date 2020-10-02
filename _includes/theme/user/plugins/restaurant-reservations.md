@@ -1,4 +1,4 @@
-## <a name="restaurant-reservations"></a>Restaurant Reservations
+## <a name="restaurant-reservations"></a>Five Star Restaurant Reservations
 
 Accept restaurant reservations and table bookings online. Quickly confirm or reject bookings, send email notifications, set booking times and more.
 

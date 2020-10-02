@@ -1,14 +1,14 @@
 plugins:
-  - title: Restaurant Reservations
+  - title: Five Star Restaurant Reservations
     page: restaurant-reservations
 
   - title: Five Star Restaurant Menu
     page: food-and-drink-menu
 
-  - title: Business profile
+  - title: Five Star Business Profile & Schema
     page: business-profile
 
-  - title: Good Reviews for WP
+  - title: Five Star Restaurant Reviews
     page: good-reviews-wp
 
 themes:

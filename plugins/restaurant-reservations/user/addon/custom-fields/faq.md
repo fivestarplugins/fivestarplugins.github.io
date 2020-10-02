@@ -33,7 +33,7 @@ If you'd like to customize the HTML markup or perform more extensive customizati
 
 ## I've created custom fields, but they don't show in my booking form
 
-Some themes have overwritten the booking form used by [Restaurant Reservations](http://wordpress.org/plugins/restaurant-reservations). Unfortunately, in doing so they have broken compatibility with my addons.
+Some themes have overwritten the booking form used by [Five Star Restaurant Reservations](http://wordpress.org/plugins/restaurant-reservations). Unfortunately, in doing so they have broken compatibility with my addons.
 
 Known themes that are problematic include the Nuvo and Aqua themes. Others have cropped up from time to time.
 

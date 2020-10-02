@@ -2,7 +2,7 @@
 layout: default
 slug: restaurant-reservations
 menu: developer
-title: Restaurant Reservations Developer Documentation
+title: Five Star Restaurant Reservations Developer Documentation
 ---
 The developer documentation is for coders who want to learn how to extend the plugin with custom fields, notifications, integrations and more.
 
@@ -10,7 +10,7 @@ The developer documentation is for coders who want to learn how to extend the pl
 
 ---
 
-Restaurant Reservations is packed with hooks to make it extraordinarily extensible. But the documentation is not yet complete.
+Five Star Restaurant Reservations is packed with hooks to make it extraordinarily extensible. But the documentation is not yet complete.
 
 When it is, it will be a handy reference for every hook, as well as the place to find best practices for extending the plugin to ensure future compatibility.
 

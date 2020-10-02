@@ -2,7 +2,7 @@
 layout: default
 slug: business-profile
 menu: user
-title: Business Profile Documentation
+title: Five Star Business Profile & Schema Documentation
 ---
 This documentation will help you use [Business Profile](https://wordpress.org/plugins/business-profile), a WordPress plugin for to provide SEO-optimized contact information for local businesses that is free to download and use on any website built with WordPress.
 

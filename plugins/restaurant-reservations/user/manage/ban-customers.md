@@ -4,7 +4,7 @@ slug: restaurant-reservations
 menu: user
 title: Banning Abusive Customers
 ---
-Restaurant Reservations works hard to make the booking process as easy as possible for your customers. I believe that the simplest booking experience is the best.
+Five Star Restaurant Reservations works hard to make the booking process as easy as possible for your customers. I believe that the simplest booking experience is the best.
 
 Sometimes, though, the ease of booking from any device may encourage some customers to treat your online bookings in an abusive way. This plugin allows booking managers to ban bookings from specific customer email or IP addresses.
 
@@ -18,7 +18,7 @@ Only ban customers if this is seriously effecting your business.
 
 ## What happens when a banned customer books?
 
-By default, Restaurant Reservations delivers an ambiguous message that simply says their booking could not be completed. The customer isn't told why their booking wasn't completed, in order to minimize negative responses that might effect your business.
+By default, Five Star Restaurant Reservations delivers an ambiguous message that simply says their booking could not be completed. The customer isn't told why their booking wasn't completed, in order to minimize negative responses that might effect your business.
 
 ## Should I ban by email or IP address?
 

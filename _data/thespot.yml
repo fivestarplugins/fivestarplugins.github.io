@@ -84,13 +84,13 @@ user:
     - title: Five Star Restaurant Menu
       page: user/plugins#food-and-drink-menu
 
-    - title: Restaurant Reservations
+    - title: Five Star Restaurant Reservations
       page: user/plugins#restaurant-reservations
 
     - title: Business Profile
       page: user/plugins#business-profile
 
-    - title: Good Reviews for WordPress
+    - title: Five Star Restaurant Reviews
       page: user/plugins#good-reviews-wp
 
     - title: Ninja Forms

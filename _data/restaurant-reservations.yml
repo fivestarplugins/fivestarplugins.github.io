@@ -1,4 +1,4 @@
-title: Restaurant Reservations
+title: Five Star Restaurant Reservations
 base: plugins/restaurant-reservations
 
 docs:
@@ -53,49 +53,37 @@ user:
     - title: Email Notifications
       page: user/config/email-notifications
 
-  - title: Custom Fields (addon)
+  - title: Custom Fields 
     page: user/addon/custom-fields
     flags: custom-fields
     items:
-    - title: Install and Activate
-      page: user/addon/custom-fields/install
-
     - title: Custom Fields FAQ
       page: user/addon/custom-fields/faq
 
-  - title: Email Templates (addon)
+  - title: Email Templates 
     page: user/addon/email-templates
     flags: email-templates
     items:
-    - title: Install and Activate
-      page: user/addon/email-templates/install
-
     - title: Using the Email Designer
       page: user/addon/email-templates/designer
 
     - title: Email Templates FAQ
       page: user/addon/email-templates/faq
 
-  - title: MailChimp (addon)
+  - title: MailChimp 
     page: user/addon/mailchimp
     flags: mailchimp
     items:
-    - title: Install and Activate
-      page: user/addon/mailchimp/install
-
     - title: Connect to MailChimp
       page: user/addon/mailchimp/connect
 
     - title: MailChimp FAQ
       page: user/addon/mailchimp/faq
 
-  - title: Export Bookings (addon)
+  - title: Export Bookings 
     page: user/addon/export-bookings
     flags: export-bookings
     items:
-    - title: Install and Activate
-      page: user/addon/export-bookings/install
-
     - title: Generate an Export
       page: user/addon/export-bookings/export
 

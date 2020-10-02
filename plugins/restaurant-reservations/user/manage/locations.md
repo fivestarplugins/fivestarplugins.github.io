@@ -23,7 +23,7 @@ You can click the tabs above the list to view only bookings for that location. O
 
 ## Configuring bookings for each location
 
-When using [Business Profile](http://wordpress.org/plugins/business-profile/) alongside [Restaurant Reservations](https://www.fivestarplugins.com/plugins/five-star-restaurant-reservations/), you'll find an additional set of configuration fields for each Location.
+When using [Business Profile](http://wordpress.org/plugins/business-profile/) alongside [Five Star Restaurant Reservations](https://www.fivestarplugins.com/plugins/five-star-restaurant-reservations/), you'll find an additional set of configuration fields for each Location.
 
 If you go to the **Locations** page in your WordPress admin area and then click on a location, you'll find the following metabox.
 
@@ -47,7 +47,7 @@ So if your location has an ID of 123, the following shortcode would print a book
 ## Common questions/problems
 
 ### I created a location but it's not a booking option
-If you have created a location but it doesn't appear in your Bookings panel, you may need to re-save the location. This is usually because the location was created before Restaurant Reservations was active and updated to the appropriate version.
+If you have created a location but it doesn't appear in your Bookings panel, you may need to re-save the location. This is usually because the location was created before Five Star Restaurant Reservations was active and updated to the appropriate version.
 
 ### My "main" location isn't a booking option
 Your "main" location is treated by Google and other search engines like a "parent" location. This makes sense for many businesses which might have a main office or headquarters.

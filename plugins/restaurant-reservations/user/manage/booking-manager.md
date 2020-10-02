@@ -4,7 +4,7 @@ slug: restaurant-reservations
 menu: user
 title: Setting up a Booking Manager
 ---
-Restaurant Reservations creates a new User Role in your WordPress website called a Booking Manager. This role has only one permission: to add, edit, confirm and reject your bookings.
+Five Star Restaurant Reservations creates a new User Role in your WordPress website called a Booking Manager. This role has only one permission: to add, edit, confirm and reject your bookings.
 
 This role is great for when you'd like to allow staff to manage the bookings but don't want them to be able to touch any other parts of your website. It's also great if you keep a smart phone or tablet in your restaurant to quickly manage bookings.
 

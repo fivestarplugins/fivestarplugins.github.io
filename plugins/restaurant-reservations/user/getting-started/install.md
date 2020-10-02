@@ -2,8 +2,8 @@
 layout: default
 slug: restaurant-reservations
 menu: user
-title: Restaurant Reservations User Guide
-plugin_title: Restaurant Reservations
+title: Five Star Restaurant Reservations User Guide
+plugin_title: Five Star Restaurant Reservations
 plugin_url: https://www.fivestarplugins.com/plugins/five-star-restaurant-reservations/
 ---
 {% include plugins/install.md %}

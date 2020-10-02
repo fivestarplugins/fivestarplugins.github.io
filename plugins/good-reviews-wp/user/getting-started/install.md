@@ -3,7 +3,7 @@ layout: default
 slug: good-reviews-wp
 menu: user
 title: Install Plugin
-plugin_title: Good Reviews for WordPress
+plugin_title: Five Star Restaurant Reviews
 plugin_url: https://wordpress.org/plugins/good-reviews-wp
 ---
 {% include plugins/install.md %}

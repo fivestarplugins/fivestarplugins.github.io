@@ -8,7 +8,7 @@ title: Changelog
 * Fix: broken license activation URL
 
 ## 1.4.4 (2017-11-27)
-* Add: Style the privacy consent field added in Restaurant Reservations v1.7.7
+* Add: Style the privacy consent field added in Five Star Restaurant Reservations v1.7.7
 
 ## 1.4.3 (2017-04-21)
 * Add: support image property in Business Profile v1.1.4
@@ -75,7 +75,7 @@ title: Changelog
 * Unbundle plugins and pull them from the repository now that they're available
 
 ## 1.0.1 - 2014-09-02
-* Add support for MailChimp for Restaurant Reservations addon
+* Add support for MailChimp for Five Star Restaurant Reservations addon
 * Update Simple Admin Pages library to v2.0.a.7
 
 ## 1.0 - 2014-05-26
