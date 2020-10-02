@@ -4,7 +4,7 @@ slug: thespot
 menu: user
 title: Frequently Asked Questions
 ---
-Quick answers to your most pressing questions. Anything missing? [Let me know](https://www.fivestarplugins.com/about/support/).
+Quick answers to your most pressing questions. Anything missing? [Let us know](https://www.fivestarplugins.com/support-center/).
 
 {% include theme/user/faq/colors.md %}
 

@@ -4,7 +4,7 @@ slug: restaurant-reservations
 menu: user
 title: Frequently Asked Questions
 ---
-Quick answers to your most common questions. Anything missing? [Let me know](https://www.fivestarplugins.com/about/support).
+Quick answers to your most common questions. Anything missing? [Let us know](https://www.fivestarplugins.com/support-center/).
 
 ## <a name="shortcode"></a>Is there a shortcode to print the booking form?
 
@@ -98,7 +98,7 @@ In the qTranslate settings, go to **Advanced Settings > Conversion Date/Time** a
 
 I provide the best support for the free plugin that I'm able to provide for free. But there is only so much I'm able to do while keeping my business sustainable. Still, I'd encourage you to [post your support request on the official forums](http://wordpress.org/support/plugin/restaurant-reservations) and I'll help out as best I can.
 
-If you have purchased any of the commercial addons, please reach out to me via the [support form on my website](https://www.fivestarplugins.com/about/support).
+If you have purchased any of the commercial addons, please reach out to me via the [support form on my website](https://www.fivestarplugins.com/support-center/).
 
 {% include faq/refund.md %}
 

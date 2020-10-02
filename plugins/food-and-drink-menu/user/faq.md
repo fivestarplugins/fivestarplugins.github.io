@@ -4,7 +4,7 @@ slug: food-and-drink-menu
 menu: user
 title: Frequently Asked Questions (FAQ)
 ---
-Quick answers to your most common questions. Anything missing? [Let me know](https://www.fivestarplugins.com/about/support).
+Quick answers to your most common questions. Anything missing? [Let us know](https://www.fivestarplugins.com/support-center/).
 
 ## <a name="menu-item-order"></a> How do I change the order of items on my menu?
 
