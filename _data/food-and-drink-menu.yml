@@ -1,4 +1,4 @@
-title: Food and Drink Menu
+title: Five Star Restaurant Menu
 base: plugins/food-and-drink-menu
 
 docs:
@@ -40,7 +40,7 @@ user:
     - title: Build menus with complex layouts
       page: user/advanced/complex-layouts
 
-  - title: Pro Addon
+  - title: Premium Version
     page: user/pro
     flags: pro
     items:

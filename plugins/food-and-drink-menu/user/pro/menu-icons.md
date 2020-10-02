@@ -4,7 +4,7 @@ slug: food-and-drink-menu
 menu: user
 title: Menu Icons (Pro)
 ---
-When you [create or edit a Menu Item](../getting-started/create-menu#create-menu-item) with the [Pro addon](../pro), you'll see a panel for adding **Menu Item Flags**. These flags can be used to designate information such as vegetarian dishes, organic produce, Halal or Kosher options and more.
+When you [create or edit a Menu Item](../getting-started/create-menu#create-menu-item) with the [premium version](../pro), you'll see a panel for adding **Menu Item Flags**. These flags can be used to designate information such as vegetarian dishes, organic produce, Halal or Kosher options and more.
 
 The Menu Item Flags work just like the Tags you can assign to Posts in WordPress, with a twist. Menu Item Flags can also have icons associated with them.
 
@@ -24,7 +24,7 @@ If there's no icon matching an Item Flag you'd like to use, it will fall back to
 
 ## Icon Font and Source Files
 
-The Pro addon displays the icons as an icon font so that their color can be changed with CSS. Each icon is also provided as a vector file (SVG) so that graphic designers can make their own icons based on this set.
+The premium version displays the icons as an icon font so that their color can be changed with CSS. Each icon is also provided as a vector file (SVG) so that graphic designers can make their own icons based on this set.
 
 ---
 

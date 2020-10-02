@@ -4,7 +4,7 @@ slug: food-and-drink-menu
 menu: user
 title: Sales, Features and Specials (Pro)
 ---
-When you [create or edit a Menu Item](../getting-started/create-menu#create-menu-item) with the [Pro addon](../pro), you'll see a panel for highlighting this item as On Sale, Special Offer or Featured.
+When you [create or edit a Menu Item](../getting-started/create-menu#create-menu-item) with the [premium version](../pro), you'll see a panel for highlighting this item as On Sale, Special Offer or Featured.
 
 ![Screenshot of the editing panel for specials](/img/{{ page.slug }}/pro-specials.png)
 

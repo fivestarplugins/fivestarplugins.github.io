@@ -1,6 +1,6 @@
 ## <a name="menu"></a> How do I build my restaurant's menu?
 
-This theme integrates with the free [Food and Drink Menu](https://wordpress.org/plugins/food-and-drink-menu/) plugin.
+This theme integrates with the free [Five Star Restaurant Menu](https://wordpress.org/plugins/food-and-drink-menu/) plugin.
 
 Once the plugin is [installed and activated](/{{ site.data[page.slug].base}}/user/getting-started/activate-plugins), you can begin building your menus by going to the **Menu Items** page in your WordPress admin area.
 

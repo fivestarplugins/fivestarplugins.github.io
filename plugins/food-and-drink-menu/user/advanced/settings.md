@@ -18,7 +18,7 @@ If you want to handle all of the styles yourself, you can prevent this styleshee
 
 Sometimes you may not need a feature, and you may want to hide it altogether to make things simpler for your client. You can disable any of the un-needed features here and you won't see them appear on the editing pages.
 
-*If you're not using the [Pro addon](../pro), you won't see many features here.*
+*If you're not using the [premium version](../pro), you won't see many features here.*
 
 ## Advanced Options
 

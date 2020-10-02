@@ -83,7 +83,7 @@ The [premium version](pro) features a wide range of icons covering dietary needs
 
 This plugin includes a `wpml-config.xml` file which provides compatibility with the WPML multi-language plugin.
 
-Although Food and Drink Menu is compatible with WPML, I'm not personally very familiar with the multi-language plugin and so may not be able to provide very helpful support if you run into any problems or find the editing process confusing.
+Although Five Star Restaurant Menu is compatible with WPML, I'm not personally very familiar with the multi-language plugin and so may not be able to provide very helpful support if you run into any problems or find the editing process confusing.
 
 ## <a name="image-sizes"></a> I changed the size of my Menu Item photos, but the image is still the old size.
 

@@ -8,4 +8,4 @@ This section goes into greater detail about some of the plugin's features. You'l
 
 Are you looking to customize templates, add custom data or extend the plugin? You'll want to take a look at the [developer documentation](../../developer).
 
-*Don't miss all the great features in the [Pro addon](../pro) too.*
+*Don't miss all the great features in the [premium version](../pro) too.*

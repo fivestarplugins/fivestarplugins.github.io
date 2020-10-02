@@ -12,7 +12,7 @@ title: Changelog
 * Add: support image property in Business Profile v1.1.4.
 
 ## 1.1.4 (2016-11-15)
-* Add: support new item flag icons in Food and Drink Menu Pro
+* Add: support new item flag icons in Five Star Restaurant Menu Pro
 * Fix: location-specific phone and contact details in contact cards
 
 ## 1.1.3 (2016-09-09)

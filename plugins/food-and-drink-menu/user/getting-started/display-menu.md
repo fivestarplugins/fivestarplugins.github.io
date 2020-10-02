@@ -22,7 +22,7 @@ To do this, go to the **Appearance > Menus** page in your WordPress admin area.
 
 ![Screenshot of the WordPress menus page](/img/{{ page.slug }}/add-to-nav-menu.png)
 
-You'll see a new section of links you can add to the navigation menus specifically for your Food and Drink Menus. Add any Menu you've created from this page to link directly to it.
+You'll see a new section of links you can add to the navigation menus specifically for your Five Star Restaurant Menus. Add any Menu you've created from this page to link directly to it.
 
 When you link to a Menu this way, it will use the same template as regular WordPress Posts. That's not appropriate in a lot of cases. If your theme includes a full-width page template, you'll probably want to use that so that your menu has enough room.
 
@@ -36,4 +36,4 @@ You'll find these under the **Appearance > Widgets** page in your WordPress admi
 
 ---
 
-You should now know everything you need to get started with this plugin. If you want to keep learning, take a look at the [advanced topics](../advanced) or learn about the exciting features of the [Pro addon](../pro).
+You should now know everything you need to get started with this plugin. If you want to keep learning, take a look at the [advanced topics](../advanced) or learn about the exciting features of the [premium version](../pro).

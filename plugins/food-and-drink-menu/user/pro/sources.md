@@ -4,7 +4,7 @@ slug: food-and-drink-menu
 menu: user
 title: Sources (Pro)
 ---
-When you [create or edit a Menu Item](../getting-started/create-menu#create-menu-item) with the [Pro addon](../pro), you'll see a panel for adding information about the source of this item.
+When you [create or edit a Menu Item](../getting-started/create-menu#create-menu-item) with the [premium version](../pro), you'll see a panel for adding information about the source of this item.
 
 ![Screenshot of the editing panel for sources and suppliers](/img/{{ page.slug }}/pro-source-edit.png)
 

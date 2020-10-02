@@ -2,7 +2,7 @@ plugins:
   - title: Restaurant Reservations
     page: restaurant-reservations
 
-  - title: Food and Drink Menu
+  - title: Five Star Restaurant Menu
     page: food-and-drink-menu
 
   - title: Business profile

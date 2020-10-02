@@ -84,7 +84,7 @@ user:
     page: user/plugins
     flags: plugins
     items:
-    - title: Food and Drink Menu
+    - title: Five Star Restaurant Menu
       page: user/plugins#food-and-drink-menu
 
     - title: Restaurant Reservations

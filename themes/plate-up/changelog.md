@@ -14,7 +14,7 @@ title: Changelog
 * Add: support image property in Business Profile v1.1.4
 
 ## 1.4.2 - 2016-11-15
-* Update: styles for new item flag icons in Food and Drink Menu Pro v1.4
+* Update: styles for new item flag icons in Five Star Restaurant Menu Pro v1.4
 
 ## 1.4.1 - 2016-09-08
 * Update styles for Ninja Forms 3.0

@@ -87,7 +87,7 @@ user:
     - title: Five Star Plugins - Layout Control
       page: user/plugins#totc-layout-control
 
-    - title: Food and Drink Menu
+    - title: Five Star Restaurant Menu
       page: user/plugins#food-and-drink-menu
 
     - title: Restaurant Reservations
