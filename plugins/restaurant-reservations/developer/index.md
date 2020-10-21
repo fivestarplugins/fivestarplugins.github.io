@@ -21,6 +21,14 @@ These are the available filters. You could, for example, use these in your theme
 - `rtb-max-people-upper-limit` => Set the upper limit for the maximum people dropdown box on the settings page (default 100)
 - `rtb-auto-confirm-reservations-upper-limit` => Set the upper limit for the auto-confirm reservations dropdown box on the settings page (default 100)
 - `rtb-auto-confirm-seats-upper-limit` => Set the upper limit for the autoiconfirm seats dropdown box on the settings page (default 400)
+- `rtb_booking_submit_success_redirect` => Manipulate the redirect after a successful booking. For example, you could use a different redirect URL for different times of the day. It receives three parameters and returns a URL. Example code:
+
+`function sample_function_name($current_redirect_location, $booking_status, $booking_data) {
+    // code...
+    return $current_redirect_location;
+}
+add_filter( 'rtb_booking_submit_success_redirect', 'sample_function_name' );
+`
 
 ## Code Snippets
 
