@@ -4,7 +4,7 @@ slug: restaurant-reservations
 menu: developer
 title: Five Star Restaurant Reservations Developer Documentation
 ---
-The developer documentation is for coders who want to learn how to extend the plugin with custom fields, notifications, integrations and more.
+The developer documentation is for coders who want to learn how to extend the plugin with the available filters, hooks and code snippets.
 
 *If you're not a coder, you're probably looking for the [User Guide](../user).*
 
@@ -16,11 +16,11 @@ Five Star Restaurant Reservations comes with several filters and hooks to make i
 
 These are the available filters. You could, for example, use these in your theme's functions.php file to extend the functionality of the plugin.
 
-- 'rtb_party_size_upper_limit' => Set the upper limit for the party size dropdown box on the settings page
-- 'rtb-max-reservations-upper-limit' => Set the upper limit for the maximum reservations dropdown box on the settings page (default 100)
-- 'rtb-max-people-upper-limit' => Set the upper limit for the maximum people dropdown box on the settings page (default 100)
-- 'rtb-auto-confirm-reservations-upper-limit' => Set the upper limit for the auto-confirm reservations dropdown box on the settings page (default 100)
-- 'rtb-auto-confirm-seats-upper-limit' => Set the upper limit for the autoiconfirm seats dropdown box on the settings page (default 400)
+- `rtb_party_size_upper_limit` => Set the upper limit for the party size dropdown box on the settings page
+- `rtb-max-reservations-upper-limit` => Set the upper limit for the maximum reservations dropdown box on the settings page (default 100)
+- `rtb-max-people-upper-limit` => Set the upper limit for the maximum people dropdown box on the settings page (default 100)
+- `rtb-auto-confirm-reservations-upper-limit` => Set the upper limit for the auto-confirm reservations dropdown box on the settings page (default 100)
+- `rtb-auto-confirm-seats-upper-limit` => Set the upper limit for the autoiconfirm seats dropdown box on the settings page (default 400)
 
 ## Code Snippets
 
