@@ -1,4 +1,4 @@
-name: Test Github Pages w/ Jeckyll
+name: Five Star Plugins Github Pages w/ Jeckyll
 markdown: kramdown
-gems:
+plugins:
   - jekyll-sitemap

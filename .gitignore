@@ -1,2 +1,11 @@
+# Jekyll
 _site/
-.sass-cache
+*-cache/
+.jekyll-metadata
+
+# Ruby
+.bundle/
+.byebug_history
+.ruby-gemset
+.ruby-version
+*.gem
