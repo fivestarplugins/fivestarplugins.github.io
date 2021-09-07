@@ -36,7 +36,7 @@ I don't yet have comprehensive developer documentation for this, but here is a q
 - `etfrtb_template_directories` - *Filter*. Modify the list of directories where templates can be found.
 - `etfrtb_designer_setup` - *Action*. Fired after the email template class is set up. Modify data available in the template here.
 
-If you have any questions, don't hesitate to contact me via the [support form on my website](https://www.fivestarplugins.com/contact).
+If you have any questions, don't hesitate to contact me via the [support form on our website](https://www.fivestarplugins.com/support-center/).
 
 {% include faq/support.md %}
 
