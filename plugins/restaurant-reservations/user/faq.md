@@ -10,6 +10,20 @@ Quick answers to your most common questions. Anything missing? [Let us know](htt
 
 Yes, use the `[booking-form]` shortcode.
 
+## <a name="block"></a>Is there a Gutenberg block to print the booking form?
+
+Yes, you can search for the **Booking Form** block or find it the **Five Star Restaurant Reservations** block category.
+
+## <a name="pre-selected"></a>How do I display the booking form with a pre-selected date?
+
+You can use the "selected_date" URL parameter to pre-select a specific date in the calendar in the booking form. The format required is:
+
+`yyyy/mm/dd`
+
+Let's say your booking page is *https://www.your-site.com/reservations/* and you would like to have April 11th, 2022 pre-selected. It would look like this:
+
+`https://www.your-site.com/reservations/?selected_date=2022/04/11`
+
 ## <a name="date-time-format"></a>Can I change the format of the date or time?
 
 Yes, set the format for the datepicker in **Bookings > Settings**. The format used in the backend will depend on the date and time formats in your WordPress settings.

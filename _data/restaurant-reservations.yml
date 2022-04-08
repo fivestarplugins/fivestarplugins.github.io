@@ -37,7 +37,7 @@ user:
     - title: Banning Abusive Customers
       page: user/manage/ban-customers
 
-    - title: Multi-location Bookings
+    - title: Multi-Location Bookings
       page: user/manage/locations
 
   - title: Configure Your Bookings
@@ -96,6 +96,12 @@ user:
     items:
     - title: Is there a shortcode to print the booking form?
       page: user/faq#shortcode
+
+    - title: Is there a Gutenberg block to print the booking form?
+      page: user/faq#block
+
+    - title: How do I display the booking form with a pre-selected date?
+      page: user/faq#pre-selected
 
     - title: Can I change the format of the date or time?
       page: user/faq#date-time-format
