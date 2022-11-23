@@ -8,4 +8,4 @@ plugin_url: https://wordpress.org/plugins/food-and-drink-menu/
 ---
 {% include plugins/install.md %}
 
-Now that the plugin is installed and activated, you'll want to [create your first menu](create-menu).
+Now that you've installed the plugin, you'll want to run through the [walk-through](setup).

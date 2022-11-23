@@ -4,10 +4,23 @@ slug: food-and-drink-menu
 menu: user
 title: Five Star Restaurant Menu User Guide
 ---
-The user guide is for anyone who wants to learn how to [install the  plugin](getting-started/install), [create menus](getting-started/create-menu) and [display them on your WordPress website](getting-started/display-menu).
 
-It covers more advanced features, such as [shortcode parameters](advanced/shortcodes), optional [settings](advanced/settings) and the many features of the plugin's [premium version](pro).
+This user guide provides documentation for the Five Star Restaurant Menu plugin. It covers the following topics:
 
-There's an [FAQ](faq) that answers many of the most common questions. And a [support forum](http://wordpress.org/support/plugin/food-and-drink-menu) for the free plugin.
+- [Installing the plugin](getting-started/install)
+- [Menus](menus)
+- [Blocks and Shortcodes](blocks-shortcodes)
+- [Premium & Ultimate Versions](premium)
+- [Ordering](ordering)
+- [Custom Fields](custom-fields)
+- [Item Icons](multiple-locations)
+- [Settings](settings)
+- [Styling](styling)
+- [Labelling and translation](labelling)
+- [Five Star Restaurant Manager Mobile App](fsrm)
+- [Advanced Topics](advanced)
+- [Support](support)
 
-If you need help with the [premium version](pro), please use the [contact form](https://www.fivestarplugins.com/support-center/) on our website.
+There's also an [FAQ](faq) that answers many of the most common questions. And a [support forum](https://wordpress.org/support/plugin/food-and-drink-menu) for the free plugin.
+
+If you need help with the premium or ultimate versions, please use our [support center](https://www.fivestarplugins.com/support-center/).

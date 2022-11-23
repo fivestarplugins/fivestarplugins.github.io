@@ -15,49 +15,64 @@ user:
     - title: Install Plugin
       page: user/getting-started/install
 
+    - title: Walk-Through
+      page: user/getting-started/setup
+
+  - title: Menus
+    page: user/menus
+    flags: menus
+    items:
     - title: Create a Menu
-      page: user/getting-started/create-menu
+      page: user/menus/create-menu
 
     - title: Display your Menu
-      page: user/getting-started/display-menu
+      page: user/menus/display-menu
+
+    - title: Discounted Prices
+      page: user/menus/discounted-prices
+
+    - title: Sales, Features and Specials
+      page: user/menus/specials
+
+    - title: Sources and Suppliers
+      page: user/menus/sources
+
+    - title: Quick Price Editing
+      page: user/menus/quick-price-edit
+
+  - title: Blocks and Shortcodes 
+    page: user/blocks-shortcodes
+    flags: blocks-shortcodes
+    items:
+    - title: Shortcodes
+      page: user/blocks-shortcodes/shortcodes
+
+  - title: Premium Version
+    page: user/premium
+    flags: premium
+    items:
+    - title: Menu Icons such as Spicy, Vegetarian, Organic and more
+      page: user/premium/menu-icons
+
+    - title: Set up your Google Maps API Key
+      page: user/premium/google-map-api-key
+
+  - title: Settings
+    page: user/settings
+    flags: settings
+    items:
+    - title: Settings
+      page: user/settings/settings
 
   - title: Advanced Topics
     page: user/advanced
     flags: advanced
     items:
-    - title: Quick Price Editing
-      page: user/advanced/quick-price-edit
-
     - title: Page Templates
       page: user/advanced/page-templates
 
-    - title: Shortcodes
-      page: user/advanced/shortcodes
-
-    - title: Settings
-      page: user/advanced/settings
-
     - title: Build menus with complex layouts
       page: user/advanced/complex-layouts
-
-  - title: Premium Version
-    page: user/pro
-    flags: pro
-    items:
-    - title: Discounted Prices
-      page: user/pro/discounted-prices
-
-    - title: Sales, Features and Specials
-      page: user/pro/specials
-
-    - title: Menu Icons such as Spicy, Vegetarian, Organic and more
-      page: user/pro/menu-icons
-
-    - title: Sources and Suppliers
-      page: user/pro/sources
-
-    - title: Set up your Google Maps API Key
-      page: user/pro/google-map-api-key
 
   - title: FAQ
     page: user/faq
