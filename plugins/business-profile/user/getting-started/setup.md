@@ -2,20 +2,32 @@
 layout: default
 slug: business-profile
 menu: user
-title: Quick Setup
+title: Walk-Through
 ---
-Once the plugin is [installed and activated](install), go to the new **Business Profile** page in your WordPress admin area.
+When you first activate the plugin, it will automatically run a walk-through that will help you add your business info, set opening hours, add your contact card to a page and create a schema rule.
 
-![Screenshot of the business profile page](/img/{{ page.slug }}/business-profile.png)
+![Screenshot of the Five Star Business Profile and Schema walk-through](/img/{{ page.slug }}/bpfwp-walkthrough.png)
 
-On this page you can enter your business name, contact information and opening hours. You'll also be asked to enter a few details you might not understand. The [FAQ](../faq) explains more details about the [Schema Type](../faq#schema-type) as well as the [Google Maps API Key](../faq/#google-maps-api-key).
+The walk-through consists of four steps.
 
-## Display your contact card
+1. **Add a Contact Page**: This will create a new page on your WordPress site and place your contact card on it.
 
-Business Profile allows you to display these details on any page, post or sidebar.
+2. **Set Contact Information**: Here you can add your buisness information, which will display both in the contact card and as structured data on the page.
 
-- Add the Contact Card block to any page or post.
-- Use the `[contact-card]` shortcode in any page or post. See all the [shortcode attributes](../faq#shortcode).
-- Add the Contact Card widget in any sidebar. You'll find this under **Appearance > Widgets**.
+3. **Set Opening Hours**: Here you can set your opening hours, which will display both in the contact card and as structured data on the page.
 
-When you use one of these techniques to display your business profile, it will be printed with [Schema.org](http://schema.org/) markup, which allows Google and other search engines to better interpret your business details.
+4. **Create a Schema**: Here you can create a schema rule, to dynamically display structured data on your site. 
+
+If you'd like, you can re-run the walk-through at any time by going to the following URL in your WordPress admin:
+
+`admin.php?page=bpfwp-getting-started`
+
+So, if, for example, your site domain is:
+
+`https://www.my-site.com/`
+
+Then, to restart the walk-through, you would go to: 
+
+`https://www.my-site.com/admin.php?page=bpfwp-getting-started`
+
+You're now ready to learn more about the [contact card](../contact) and about [schema](../schema).

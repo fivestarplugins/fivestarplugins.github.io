@@ -1,4 +1,4 @@
-title: Business Profile
+title: Five Star Business Profile and Schema
 base: plugins/business-profile
 
 docs:
@@ -14,10 +14,15 @@ user:
     items:
     - title: Install Plugin
       page: user/getting-started/install
-    - title: Quick Setup
+    - title: Walk-Through
       page: user/getting-started/setup
+
+  - title: Multiple Locations
+    page: user/multiple-locations
+    flags: multiple-locations
+    items:
     - title: Multiple Locations
-      page: user/getting-started/locations
+      page: user/multiple-locations/locations
 
   - title: FAQ
     page: user/faq
