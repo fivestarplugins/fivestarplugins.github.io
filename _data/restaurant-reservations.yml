@@ -15,80 +15,88 @@ user:
     - title: Install Plugin
       page: user/getting-started/install
 
-    - title: Quick Setup
+    - title: Walk-Through
       page: user/getting-started/setup
 
-  - title: Manage Bookings
-    page: user/manage
-    flags: manage
+  - title: Bookings
+    page: user/bookings
+    flags: bookings
     items:
+    - title: Set the Booking Schedule
+      page: user/bookings/schedule
+
     - title: Confirm and Reject Bookings
-      page: user/manage/confirm-reject-bookings
+      page: user/bookings/confirm-reject-bookings
 
     - title: Find Bookings
-      page: user/manage/find-bookings
-
-    - title: Send Emails
-      page: user/manage/send-emails
+      page: user/bookings/find-bookings
 
     - title: Setting up a Booking Manager
-      page: user/manage/booking-manager
+      page: user/bookings/booking-manager
 
     - title: Banning Abusive Customers
-      page: user/manage/ban-customers
-
-    - title: Multi-Location Bookings
-      page: user/manage/locations
-
-  - title: Configure Your Bookings
-    page: user/config
-    flags: config
-    items:
-    - title: General Settings
-      page: user/config/general
-
-    - title: Set the Booking Schedule
-      page: user/config/schedule
-
-    - title: Email Notifications
-      page: user/config/email-notifications
-
-  - title: Custom Fields 
-    page: user/addon/custom-fields
-    flags: custom-fields
-    items:
-    - title: Custom Fields FAQ
-      page: user/addon/custom-fields/faq
-
-  - title: Email Templates 
-    page: user/addon/email-templates
-    flags: email-templates
-    items:
-    - title: Using the Email Designer
-      page: user/addon/email-templates/designer
-
-    - title: Email Templates FAQ
-      page: user/addon/email-templates/faq
-
-  - title: MailChimp 
-    page: user/addon/mailchimp
-    flags: mailchimp
-    items:
-    - title: Connect to MailChimp
-      page: user/addon/mailchimp/connect
-
-    - title: MailChimp FAQ
-      page: user/addon/mailchimp/faq
+      page: user/bookings/ban-customers
 
   - title: Export Bookings 
-    page: user/addon/export-bookings
+    page: user/export-bookings
     flags: export-bookings
     items:
     - title: Generate an Export
-      page: user/addon/export-bookings/export
+      page: user/export-bookings/export
 
     - title: Export Bookings FAQ
-      page: user/addon/export-bookings/faq
+      page: user/export-bookings/faq
+
+  - title: Notifications
+    page: user/notifications
+    flags: notifications
+    items:
+    - title: Send Emails
+      page: user/notifications/send-emails
+
+    - title: Email Notifications
+      page: user/notifications/email-notifications
+
+  - title: Email Templates 
+    page: user/email-templates
+    flags: email-templates
+    items:
+    - title: Using the Email Designer
+      page: user/email-templates/designer
+
+    - title: Email Templates FAQ
+      page: user/email-templates/faq
+
+  - title: Custom Fields 
+    page: user/custom-fields
+    flags: custom-fields
+    items:
+    - title: Custom Fields FAQ
+      page: user/custom-fields/faq
+
+  - title: Multiple Locations
+    page: user/multiple-locations
+    flags: multiple-locations
+    items:
+    - title: Multiple Locations
+      page: user/multiple-locations/locations
+
+  - title: Settings
+    page: user/settings
+    flags: settings
+    items:
+    - title: General Settings
+      page: user/settings/general
+
+  - title: MailChimp 
+    page: user/mailchimp
+    flags: mailchimp
+    items:
+    - title: Connect to MailChimp
+      page: user/mailchimp/connect
+
+    - title: MailChimp FAQ
+      page: user/mailchimp/faq
 
   - title: FAQ
     page: user/faq

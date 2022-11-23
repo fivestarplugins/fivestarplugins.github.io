@@ -3,7 +3,7 @@
 	<ul>
 
 		{% for section in site.data[page.slug][page.menu] %}
-		<li>
+		<li class="{{ section.flags }}">
 			<a href="/{{ site.data[page.slug].base }}/{{ section.page }}">
 				{{ section.title }}
 			</a>

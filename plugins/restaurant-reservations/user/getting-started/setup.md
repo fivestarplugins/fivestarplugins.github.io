@@ -2,7 +2,7 @@
 layout: default
 slug: restaurant-reservations
 menu: user
-title: Quick Setup
+title: Walk-Through
 ---
 All you need to get started taking bookings is add the booking form to your website. There are four ways you can do this.
 

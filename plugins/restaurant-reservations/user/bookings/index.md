@@ -2,7 +2,7 @@
 layout: default
 slug: restaurant-reservations
 menu: user
-title: Manage Bookings
+title: Bookings
 ---
 Go to the **Bookings** page in your WordPress admin area to find all of your bookings. In the screenshot below, there's one pending booking coming up.
 
