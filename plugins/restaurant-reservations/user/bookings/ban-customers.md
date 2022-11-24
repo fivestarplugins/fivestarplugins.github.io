@@ -4,17 +4,17 @@ slug: restaurant-reservations
 menu: user
 title: Banning Abusive Customers
 ---
-Five Star Restaurant Reservations works hard to make the booking process as easy as possible for your customers. I believe that the simplest booking experience is the best.
+Five Star Restaurant Reservations works hard to make the booking process as easy as possible for your customers. We believe that the simplest booking experience is the best.
 
 Sometimes, though, the ease of booking from any device may encourage some customers to treat your online bookings in an abusive way. This plugin allows booking managers to ban bookings from specific customer email or IP addresses.
 
 ## Who should be banned?
 
-I encourage you not to ban customers unless you really need to. Banning customers can trigger negative reviews on public sites like Yelp or Trip Advisor.
+We encourage you not to ban customers unless you really need to. Banning customers can trigger negative reviews on public sites like Yelp or Trip Advisor.
 
 In some cases, though, you may find that persistent no-show customers are losing you considerable sums of money. Unfortunately, it has become customary for diners to book at several places and not cancel their booking -- or cancel at the last minute.
 
-Only ban customers if this is seriously effecting your business.
+Only ban customers if this is seriously affecting your business.
 
 ## What happens when a banned customer books?
 
@@ -44,8 +44,10 @@ When you click the link to ban a customer, you'll get the following prompt.
 
 ![Screenshot of prompt to ban a customer](/img/{{ page.slug }}/ban-customers-prompt.png)
 
-You can ban a customer by email or IP address here. You'll also find a link to view all of your banned email and IP addresses. This will take you back to the general settings form, from which you can edit all of your bans.
+You can ban a customer by email or IP address here.
 
-![Screenshot of customer ban settings](/img/{{ page.slug }}/ban-customers-settings.png)
+You can also go to the **Basic** area of the **Settings** page and scroll down to the **Security** section where you will be able to manage bans.
+
+![Screenshot of customer ban settings](/img/{{ page.slug }}/rtb-ban.png)
 
 From this screen you can remove bans on customers that you want to allow again. If you make a habit of banning by IP address, you'll probably want to clean this up occasionally to make sure you're not banning legitimate customers.

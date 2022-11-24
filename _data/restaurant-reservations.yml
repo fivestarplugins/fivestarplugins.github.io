@@ -25,11 +25,14 @@ user:
     - title: Set the Booking Schedule
       page: user/bookings/schedule
 
-    - title: Confirm and Reject Bookings
-      page: user/bookings/confirm-reject-bookings
+    - title: Add Booking Form to a Page
+      page: user/bookings/add-booking-form-to-page
 
     - title: Find Bookings
       page: user/bookings/find-bookings
+
+    - title: Manage Bookings
+      page: user/bookings/confirm-reject-bookings
 
     - title: Setting up a Booking Manager
       page: user/bookings/booking-manager
@@ -37,15 +40,37 @@ user:
     - title: Banning Abusive Customers
       page: user/bookings/ban-customers
 
-  - title: Export Bookings 
-    page: user/export-bookings
-    flags: export-bookings
+  - title: Blocks and Shortcodes 
+    page: user/blocks-shortcodes
+    flags: blocks-shortcodes
     items:
-    - title: Generate an Export
-      page: user/export-bookings/export
+    - title: Booking Form Block
+      page: user/blocks-shortcodes/booking-form-block
 
-    - title: Export Bookings FAQ
-      page: user/export-bookings/faq
+    - title: booking-form Shortcode
+      page: user/blocks-shortcodes/booking-form-shortcode
+
+    - title: view-bookings-form Shortcode
+      page: user/blocks-shortcodes/view-bookings-form-shortcode
+
+  - title: Premium & Ultimate Versions
+    page: user/premium
+    flags: premium
+    items:
+    - title: Benefits of Premium
+      page: user/premium/benefits
+
+    - title: Benefits of Ultimate
+      page: user/premium/ultimate-benefits
+
+    - title: How to Purchase
+      page: user/premium/purchase
+
+    - title: Activate Premium
+      page: user/premium/activate
+
+    - title: Free 7-Day Trial
+      page: user/premium/trial      
 
   - title: Notifications
     page: user/notifications
@@ -80,6 +105,16 @@ user:
     items:
     - title: Multiple Locations
       page: user/multiple-locations/locations
+
+  - title: Export Bookings 
+    page: user/export-bookings
+    flags: export-bookings
+    items:
+    - title: Generate an Export
+      page: user/export-bookings/export
+
+    - title: FAQ
+      page: user/export-bookings/faq
 
   - title: Settings
     page: user/settings

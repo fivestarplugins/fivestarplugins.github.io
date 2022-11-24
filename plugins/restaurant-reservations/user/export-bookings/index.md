@@ -4,6 +4,7 @@ slug: restaurant-reservations
 menu: user
 title: Export Bookings 
 ---
-[Export Bookings](https://www.fivestarplugins.com/plugins/five-star-restaurant-reservations/export-bookings/) is a commercial addon for [Five Star Restaurant Reservations](https://www.fivestarplugins.com/plugins/five-star-restaurant-reservations/) which allows you to export your bookings to PDF or Excel/CSV files.
+With the premium version of the Five Star [Restaurant Reservations WordPress plugin](https://www.fivestarplugins.com/plugins/five-star-restaurant-reservations/) you can export your bookings to PDF or Excel/CSV files.
 
-If you've purchashed the addon, you can get advice on [how to install and activate it](install) or view the [frequently asked questions](faq).
+- [Generate an Export](export)
+- [FAQ](faq)

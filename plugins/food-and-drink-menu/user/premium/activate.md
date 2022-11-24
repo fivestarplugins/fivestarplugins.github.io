@@ -1,13 +1,13 @@
 ---
 layout: default
-slug: restaurant-reservations
+slug: food-and-drink-menu
 menu: user
-plugin_title: Five Star Restaurant Reservations
+plugin_title: Five Star Restaurant Menu
 title: Activate Premium & Ultimate Versions
 ---
 To activate the premium or ultimate versions, you need to download the **Five Star Plugins Premium Helper** plugin. You can do so by clicking the **Visit our website** link in the plugin dashboard.
 
-![Screenshot of the visit our website link](/img/{{ page.slug }}/rtb-fspph-1.png)
+![Screenshot of the visit our website link](/img/{{ page.slug }}/fdm-fspph-1.png)
 
 Alternatively, you can download it directly [here](https://www.fivestarplugins.com/downloads/fsp-premium-helper.zip).
 
@@ -20,7 +20,7 @@ To install the helper plugin:
 
 Once the helper plugin is installed and activated, return to the {{ page.plugin_title }} dashboard where you will now see a field in which you can enter the product key you received.
 
-![Screenshot of the enter key field](/img/{{ page.slug }}/rtb-enter-key.png)
+![Screenshot of the enter key field](/img/{{ page.slug }}/fdm-enter-key.png)
 
 ## Premium
 

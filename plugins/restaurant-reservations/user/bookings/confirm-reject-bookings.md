@@ -2,8 +2,12 @@
 layout: default
 slug: restaurant-reservations
 menu: user
-title: Confirm and Reject Bookings
+title: Manage Bookings
 ---
+Here we explain how you can easily confirm and reject bookings, and how you can modify the details of a booking.
+
+## Confirm and Reject Bookings
+
 To confirm or reject a booking, tick the checkbox to the left of a booking. Select the action you'd like to take and then click the **Apply** button. In this image, we're about to confirm a booking.
 
 ![Screenshot of confirming a booking](/img/{{ page.slug }}/bookings-confirm.png)
@@ -25,3 +29,16 @@ This is useful in situations where you may need to make changes to a booking aft
 If you've enabled the Admin Notification Email in the [settings](../config/email-notifications), you can include a quick link to confirm or reject a booking straight from the email.
 
 In order for this to work, you'll need to be logged into your WordPress website. Keeping a tablet or mobile phone in your restaurant that's logged in is a great way to quickly manage incoming booking requests.
+
+## Edit the details of a booking
+
+You can edit each booking by moving your mouse over the booking in the list and clicking the **Edit** link.
+
+![Screenshot of the Edit link on the Bookings page](/img/{{ page.slug }}/bookings-edit.png)
+
+![Screenshot of the Edit modal on the Bookings page](/img/{{ page.slug }}/bookings-edit-modal.png)
+
+This is useful in cases where a customer might phone in with a change to their booking.
+
+*When you edit a booking in this way, no notifications are sent to the customer by default. Check the __Send Notifications__ box if you want to send notifications out.*
+

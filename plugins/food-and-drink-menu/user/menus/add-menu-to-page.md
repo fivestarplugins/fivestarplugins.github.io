@@ -2,17 +2,27 @@
 layout: default
 slug: food-and-drink-menu
 menu: user
-title: Display Menu
+title: Display Your Menu
 ---
-Once you've [created a menu](create-menu), you can display it on your website in a variety of ways.
+To add your menu to a page, you can use either the included Gutenberg block or shortcode.
 
-## Add your menu to any page or post
+For the Gutenberg block, on the page edit screen, just click the + button to add a new block, search for **booking form** and add the **Booking Form** block to the page.
 
-Add the menu block to any page or post on your site.
+![Gif of adding the Menu block](/img/{{ page.slug }}/add-block.gif)
 
-![Screenshot of adding a menu block to a page](/img/{{ page.slug }}/add-block.gif)
+[More information about the block](../blocks-shortcodes/menu-block).
 
-Blocks are also available for menu sections and menu items.
+You can also add the booking form to your page using the following shortcode:
+
+`[fdm-menu id="1"]`
+
+Where 1 is the ID of the menu.
+
+To use this shortcode on the page edit screen, just click the + button and add a new shortcode block to the page. Then write or paste in the above shortcode.
+
+<!-- ![Gif of adding the shortcode](/img/{{ page.slug }}/urp-add-submit-review-shortcode.gif) -->
+
+You can view more information and the available shortcode attributes [here](../blocks-shortcodes/fdm-menu-shortcode).
 
 ## Link to your menu from a navigation menu
 
@@ -33,7 +43,3 @@ To use a different template, go to **Menus** and edit your menu. Look for the **
 This plugin also comes with widgets for displaying any Menu or Menu Item in a sidebar.
 
 You'll find these under the **Appearance > Widgets** page in your WordPress admin area. Simply add them to any widget area and select the Menu or Menu Item you wish to display.
-
----
-
-You should now know everything you need to get started with this plugin. If you want to keep learning, take a look at the [advanced topics](../advanced) or learn about the exciting features of the [premium version](../pro).

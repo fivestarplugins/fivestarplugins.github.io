@@ -2,9 +2,9 @@
 layout: default
 slug: food-and-drink-menu
 menu: user
-title: Sources (Pro)
+title: Sources
 ---
-When you [create or edit a Menu Item](../getting-started/create-menu#create-menu-item) with the [premium version](../pro), you'll see a panel for adding information about the source of this item.
+If you're using the [premium version](../premium) of the plugin, when creating or editing a menu item you'll see a panel for adding information about the source of the item.
 
 ![Screenshot of the editing panel for sources and suppliers](/img/{{ page.slug }}/pro-source-edit.png)
 
@@ -16,7 +16,7 @@ This is great for showcasing the provenance of certain coffee blends or showing 
 
 ## When I add an address, the map doesn't appear.
 
-Google now requires that you have your own API key to display a map on your website. Learn more about how to [set up your API key](google-map-api-key).
+Google now requires that you have your own API key to display a map on your website. Learn more about how to [set up your API key](../settings/google-map-api-key).
 
 ---
 

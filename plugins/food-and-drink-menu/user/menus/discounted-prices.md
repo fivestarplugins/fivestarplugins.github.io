@@ -2,9 +2,9 @@
 layout: default
 slug: food-and-drink-menu
 menu: user
-title: Discounted Prices (Pro)
+title: Discounted Prices
 ---
-When you [create or edit a Menu Item](../getting-started/create-menu#create-menu-item), you'll see the input area for the price now has an extra field for entering a discounted price.
+If you're using the [premium version](../premium) of the plugin, when creating or editing a menu item you'll see the input area for the price now has an extra field for entering a discounted price.
 
 ![Screenshot of the editing panel for discounted price](/img/{{ page.slug }}/pro-discounted-price.png)
 

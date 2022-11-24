@@ -4,34 +4,15 @@ slug: food-and-drink-menu
 menu: user
 title: Menus
 ---
-In this section, we will cover how to create menus and add them to your site. 
+In this section, we will cover how to create your items, sections and menus, how to add them to a page and how to export and import menu items. 
 
-![Screenshot of the Bookings page](/img/{{ page.slug }}/bookings.png)
-
-*When you first arrive on the page it will only show you upcoming bookings. But you can [view other bookings too](find-bookings)!*
-
-## View a message left during booking
-
-If the customer has left a message when making their booking, you'll find that under the Details column on the right.
-
-![Screenshot of the Details column on the Bookings page](/img/{{ page.slug }}/bookings-details.png)
-
-![Screenshot of the Details popup on the Bookings page](/img/{{ page.slug }}/bookings-details-modal.png)
-
-*When you're using the [Custom Fields addon](../addon/custom-fields), you'll find your custom fields here too.*
-
-## Edit the details of a booking
-
-You can edit each booking by moving your mouse over the booking in the list and clicking the **Edit** link.
-
-![Screenshot of the Edit link on the Bookings page](/img/{{ page.slug }}/bookings-edit.png)
-
-![Screenshot of the Edit modal on the Bookings page](/img/{{ page.slug }}/bookings-edit-modal.png)
-
-This is useful in cases where a customer might phone in with a change to their booking.
-
-*When you edit a booking in this way, no notifications are sent to the customer by default. Check the __Send Notifications__ box if you want to send notifications out.*
-
----
-
-The first thing you'll probably want to do, though, is [confirm or reject a booking](confirm-reject-bookings).
+- [Menu Items](items)
+- [Menus](create-menu)
+- [Display Menu](add-menu-to-page)
+- [Quick Price Editing](quick-price-edit)
+- [Menu Icons](menu-icons)
+- [Discounted Prices](discounted-prices)
+- [Sales, Features and Specials](specials)
+- [Sources and Suppliers](sources)
+<!-- - [Export Menu Items](export) -->
+<!-- - [Import Menu Items](import) -->

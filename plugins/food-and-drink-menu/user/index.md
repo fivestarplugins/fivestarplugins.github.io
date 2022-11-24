@@ -13,7 +13,6 @@ This user guide provides documentation for the Five Star Restaurant Menu plugin.
 - [Premium & Ultimate Versions](premium)
 - [Ordering](ordering)
 - [Custom Fields](custom-fields)
-- [Item Icons](multiple-locations)
 - [Settings](settings)
 - [Styling](styling)
 - [Labelling and translation](labelling)

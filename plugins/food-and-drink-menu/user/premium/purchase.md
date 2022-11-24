@@ -1,14 +1,14 @@
 ---
 layout: default
-slug: restaurant-reservations
+slug: food-and-drink-menu
 menu: user
 title: How to Purchase
 ---
 Purchasing and activating the premium or ultimate versions is easy and only takes a few minutes. You can reach the purchase page directly from the plugin dashboard by clicking the "Upgrade Now" button.
 
-![Screenshot of Upgrade Now button](/img/{{ page.slug }}/rtb-purchasing-1.png)
+![Screenshot of Upgrade Now button](/img/{{ page.slug }}/fdm-purchasing-1.png)
 
-Alternatively, you can [visit our website](https://www.fivestarplugins.com/) and click on the Five Star Restaurant Reservations plugin, or go directly to [https://www.fivestarplugins.com/plugins/five-star-restaurant-reservations/](https://www.fivestarplugins.com/plugins/five-star-restaurant-reservations/), and then click on **Purchase Now** or **Get Ultimate**.
+Alternatively, you can [visit our website](https://www.fivestarplugins.com/) and click on the Five Star Restaurant Menu plugin, or go directly to [https://www.fivestarplugins.com/plugins/five-star-restaurant-menu/](https://www.fivestarplugins.com/plugins/five-star-restaurant-menu/), and then click on **Purchase Now** or **Get Ultimate**.
 
 ## Premium License Options
 
@@ -20,13 +20,13 @@ For developers or those that need to run the plugin on multiple sites, we offer 
 
 Six months of premium support are included with each premium license purchase. If you would like access to support beyond the initial six months, then make sure you have the support subscription option checked when you purchase the plugin. 
 
-The subscription is billed at $29 every six months.
+The subscription is billed at $24 every six months.
 
 If you do not require access to support beyond the included six months, then just make sure to have the support subscription option unchecked when you purchase and it will be just the one-time purchase for the lifetime premium license.
 
 It is clearly indicated in the cart whether or not you have currently selected the support subscription option.
 
-![Screenshot of subscription in cart](/img/{{ page.slug }}/rtb-purchasing-2.png)
+![Screenshot of subscription in cart](/img/{{ page.slug }}/fdm-purchasing-2.png)
 
 ## Ultimate License
 

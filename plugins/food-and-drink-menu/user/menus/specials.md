@@ -2,9 +2,9 @@
 layout: default
 slug: food-and-drink-menu
 menu: user
-title: Sales, Features and Specials (Pro)
+title: Sales, Features and Specials
 ---
-When you [create or edit a Menu Item](../getting-started/create-menu#create-menu-item) with the [premium version](../pro), you'll see a panel for highlighting this item as On Sale, Special Offer or Featured.
+If you're using the [premium version](../premium) of the plugin, when creating or editing a menu item you'll see a panel for highlighting this item as On Sale, Special Offer or Featured.
 
 ![Screenshot of the editing panel for specials](/img/{{ page.slug }}/pro-specials.png)
 

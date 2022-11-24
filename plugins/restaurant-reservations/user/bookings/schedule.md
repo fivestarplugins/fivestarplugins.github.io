@@ -6,9 +6,9 @@ title: Set the Booking Schedule
 ---
 You probably only want to accept bookings when you're open. Maybe you only want people to book for certain times.
 
-On the **Bookings > Settings > Schedule** page you can define scheduling rules which limit the times people are allowed to book in your restaurant.
+On the **Bookings > Settings > Booking Schedule** page you can define scheduling rules which limit the times people are allowed to book in your restaurant.
 
-![Screenshot of the schedule settings page](/img/{{ page.slug }}/settings-schedule.png)
+![Screenshot of the schedule settings page](/img/{{ page.slug }}/rtb-scheduling.png)
 
 ## Scheduling Rules
 
@@ -28,6 +28,10 @@ To help you manage bookings more easily, you may want to prevent customers from 
 
 These settings are useful so that you don't get a flood of last-minute bookings when your staff are busy in the restaurant.
 
+## Further Options
+
+There are also options to set the interval for the time picker, to set which date should be pre-selected in the calendar and to set the day the week starts on (Sunday or Monday).
+
 ---
 
-Finally, you'll want to [configure the notifications](email-notifications) that are sent out.
+To learn about configuring the notifications that are sent out when someone makes a booking, see [here](../notifications).

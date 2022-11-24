@@ -22,11 +22,20 @@ user:
     page: user/menus
     flags: menus
     items:
-    - title: Create a Menu
+    - title: Menu Items
+      page: user/menus/items
+
+    - title: Menus
       page: user/menus/create-menu
 
-    - title: Display your Menu
-      page: user/menus/display-menu
+    - title: Display Menu
+      page: user/menus/add-menu-to-page
+
+    - title: Quick Price Editing
+      page: user/menus/quick-price-edit
+
+    - title: Menu Icons
+      page: user/menus/menu-icons
 
     - title: Discounted Prices
       page: user/menus/discounted-prices
@@ -37,25 +46,46 @@ user:
     - title: Sources and Suppliers
       page: user/menus/sources
 
-    - title: Quick Price Editing
-      page: user/menus/quick-price-edit
-
   - title: Blocks and Shortcodes 
     page: user/blocks-shortcodes
     flags: blocks-shortcodes
     items:
-    - title: Shortcodes
-      page: user/blocks-shortcodes/shortcodes
+    - title: Menu Block
+      page: user/blocks-shortcodes/menu-block
 
-  - title: Premium Version
+    - title: Menu Item Block
+      page: user/blocks-shortcodes/menu-item-block
+
+    - title: Menu Section Block
+      page: user/blocks-shortcodes/menu-section-block
+
+    - title: fdm-menu Shortcode
+      page: user/blocks-shortcodes/fdm-menu-shortcode
+
+    - title: fdm-menu-item Shortcode
+      page: user/blocks-shortcodes/fdm-menu-item-shortcode
+
+    - title: fdm-menu-section Shortcode
+      page: user/blocks-shortcodes/fdm-menu-section-shortcode
+
+  - title: Premium & Ultimate Versions
     page: user/premium
     flags: premium
     items:
-    - title: Menu Icons such as Spicy, Vegetarian, Organic and more
-      page: user/premium/menu-icons
+    - title: Benefits of Premium
+      page: user/premium/benefits
 
-    - title: Set up your Google Maps API Key
-      page: user/premium/google-map-api-key
+    - title: Benefits of Ultimate
+      page: user/premium/ultimate-benefits
+
+    - title: How to Purchase
+      page: user/premium/purchase
+
+    - title: Activate Premium
+      page: user/premium/activate
+
+    - title: Free 7-Day Trial
+      page: user/premium/trial      
 
   - title: Settings
     page: user/settings
@@ -63,6 +93,9 @@ user:
     items:
     - title: Settings
       page: user/settings/settings
+
+    - title: Set up your Google Maps API Key
+      page: user/settings/google-map-api-key
 
   - title: Advanced Topics
     page: user/advanced
