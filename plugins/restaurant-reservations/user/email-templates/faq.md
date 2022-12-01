@@ -4,7 +4,7 @@ slug: restaurant-reservations
 menu: user
 title: Frequently Asked Questions
 ---
-*The following frequently asked questions only cover the [Email Templates](../email-templates) addon.*
+*The following frequently asked questions only cover the [Email Templates](../email-templates).*
 
 ## Can I use different colors for each template?
 
@@ -18,11 +18,11 @@ Probably not. It's up to you, but each template has it's own character and ident
 
 Yes, you can use the notification template tags in the Lead Sentence, Footer Message and Email Acknowledgement settings. This allows you to enter details about the booking or your site into these areas.
 
-You can find all template tags listed under the **Bookings > Settings > Notifications** area in your WordPress admin. Learn more about [notification template tags](../../config/email-notifications).
+You can find all template tags listed under the **Bookings > Settings > Notifications** area in your WordPress admin. Learn more about [notification template tags](../notifications/template-tags).
 
 ## I want to customize the email template even further.
 
-You can override any of the email templates with your own template file in your theme. Simply copy the template you want to use from `/wp-content/plugins/email-templates-for-rtb/email-templates` into your theme.
+You can override any of the email templates with your own template file in your theme. Simply copy the template you want to use from `/wp-content/plugins/restaurant-reservations/templates` into your theme.
 
 If your theme is located at `/wp-content/themes/my-theme/`, copy the template to `/wp-content/themes/my-theme/etfrtb_templates` and start editing. When you select that template, the plugin will automatically load your customized template.
 
@@ -39,5 +39,3 @@ I don't yet have comprehensive developer documentation for this, but here is a q
 If you have any questions, don't hesitate to contact me via the [support form on our website](https://www.fivestarplugins.com/support-center/).
 
 {% include faq/support.md %}
-
-{% include faq/refund.md %}

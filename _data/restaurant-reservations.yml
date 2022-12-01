@@ -34,6 +34,9 @@ user:
     - title: Manage Bookings
       page: user/bookings/confirm-reject-bookings
 
+    - title: Modify or Cancel Bookings (Customer)
+      page: user/bookings/modify-cancel-bookings
+
     - title: Setting up a Booking Manager
       page: user/bookings/booking-manager
 
@@ -76,11 +79,26 @@ user:
     page: user/notifications
     flags: notifications
     items:
-    - title: Send Emails
+    - title: Notification Settings
+      page: user/notifications/settings
+
+    - title: Email Content
+      page: user/notifications/email-content
+
+    - title: Template Tags
+      page: user/notifications/template-tags
+
+    - title: Reservation Reminders (SMS and Email)
+      page: user/notifications/reservation-reminders
+
+    - title: Daily Summary
+      page: user/notifications/daily-summary
+
+    - title: Manually Send Email
       page: user/notifications/send-emails
 
-    - title: Email Notifications
-      page: user/notifications/email-notifications
+    - title: Troubleshooting
+      page: user/notifications/troubleshooting
 
   - title: Email Templates 
     page: user/email-templates
@@ -91,6 +109,13 @@ user:
 
     - title: Email Templates FAQ
       page: user/email-templates/faq
+
+  - title: View Bookings 
+    page: user/view-bookings
+    flags: view-bookings
+    items:
+    - title: View Bookings Form
+      page: user/view-bookings/index
 
   - title: Custom Fields 
     page: user/custom-fields
@@ -104,7 +129,21 @@ user:
     flags: multiple-locations
     items:
     - title: Multiple Locations
-      page: user/multiple-locations/locations
+      page: user/multiple-locations/index
+
+  - title: Tables
+    page: user/tables
+    flags: tables
+    items:
+    - title: Add Tables to Your Booking Form
+      page: user/tables/index
+
+  - title: Payments/Deposits
+    page: user/payments
+    flags: payments
+    items:
+    - title: Enable and Configure
+      page: user/payments/index
 
   - title: Export Bookings 
     page: user/export-bookings
@@ -116,13 +155,6 @@ user:
     - title: FAQ
       page: user/export-bookings/faq
 
-  - title: Settings
-    page: user/settings
-    flags: settings
-    items:
-    - title: General Settings
-      page: user/settings/general
-
   - title: MailChimp 
     page: user/mailchimp
     flags: mailchimp
@@ -132,6 +164,49 @@ user:
 
     - title: MailChimp FAQ
       page: user/mailchimp/faq
+
+  - title: Settings
+    page: user/settings
+    flags: settings
+    items:
+    - title: Basic Settings
+      page: user/settings/basic
+
+    - title: Advanced Settings
+      page: user/settings/advanced
+
+    - title: Styling Settings
+      page: user/settings/styling
+
+  - title: Labelling and Translation
+    page: user/labelling
+    flags: labelling
+    items:
+    - title: Labelling Options
+      page: user/labelling/index
+
+    - title: Translating
+      page: user/labelling/translating
+
+    - title: Poedit
+      page: user/labelling/poedit
+
+  - title: Five Star Restaurant Manager Mobile App
+    page: user/fsrm
+    flags: fsrm
+    items:
+    - title: Install and Configure
+      page: user/fsrm/index
+
+  - title: Support
+    page: user/support
+    flags: support
+    items:
+    - title: YouTube Tutorials
+      page: user/support/youtube
+
+    - title: Contact Us
+      page: user/support/contact
 
   - title: FAQ
     page: user/faq

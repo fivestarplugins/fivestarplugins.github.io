@@ -4,13 +4,15 @@ slug: restaurant-reservations
 menu: user
 title: Using the Email Designer
 ---
-Once you have [installed and activated](install) the addon, go to the **Bookings > Settings** page in your WordPress admin area. Browse to the **Notifications** tab and click the **Launch Email Designer** button.
+To modify the email templates, go to the **Settings > Notifications**, scroll down to the **Email Templates** section and click the **Launch Email Designer** button.
 
-![Screenshot indicating the button to launch the email designer](/img/{{ page.slug }}/email-templates-launch-designer.png)
+![Screenshot indicating the button to launch the email designer](/img/{{ page.slug }}/rtb-launch-email-designer.png)
 
 The Email Designer allows you to preview each of your notification emails, change the colors and templates, upload your own logo, and include special lead sentences.
 
 ![Screenshot of the email designer](/img/{{ page.slug }}/email-templates-designer-overview.png)
+
+{% include youtube.html id="s1LnEb6xuXw?start=197" %}
 
 Click on the **Logos & Colors** section to add your restaurant's logo and set colors to match your brand.
 

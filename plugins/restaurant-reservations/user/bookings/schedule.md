@@ -8,6 +8,8 @@ You probably only want to accept bookings when you're open. Maybe you only want 
 
 On the **Bookings > Settings > Booking Schedule** page you can define scheduling rules which limit the times people are allowed to book in your restaurant.
 
+{% include youtube.html id="fmMO_xn-9-8" %}
+
 ![Screenshot of the schedule settings page](/img/{{ page.slug }}/rtb-scheduling.png)
 
 ## Scheduling Rules

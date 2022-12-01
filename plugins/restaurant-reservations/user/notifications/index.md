@@ -2,8 +2,24 @@
 layout: default
 slug: restaurant-reservations
 menu: user
-title: Email Templates 
+title: Notifications 
 ---
-[Email Templates](https://www.fivestarplugins.com/plugins/five-star-restaurant-reservations/custom-fields/) is a commercial addon for [Five Star Restaurant Reservations](https://www.fivestarplugins.com/plugins/five-star-restaurant-reservations/) which allows you to send booking notification emails in beautifully designed templates.
+With the Five Star [Restaurant Reservations WordPress plugin](https://www.fivestarplugins.com/plugins/five-star-restaurant-reservations/), when a guest makes a booking, a notification email will be automatically sent to them, as well as to the admin, depending on the chosen options.
 
-If you've purchashed the addon, you can get advice on [how to install and activate it](install), use the [email designer](designer) or view the [frequently asked questions](faq).
+There are also further notifications for pending, confirmed and cancelled bookings.
+
+The ultimate version extends the notification functionality with reservation reminders, late arrival notifcations and post-reservation follow-up messages that can be sent either via SMS or email.
+
+In this section, we cover the different notification options and settings. For an explanation of all availble notification settings, please see the following video:
+
+{% include youtube.html id="s1LnEb6xuXw" %}
+
+## Topics
+
+- [Notification Settings](settings)
+- [Email Content](email-content)
+- [Template Tags](template-tags)
+- [Reservation Reminders (SMS and Email)](reservation-reminders)
+- [Daily Summary](daily-summary)
+- [Manually Send Email](send-emails)
+- [Troubleshooting](troubleshooting)

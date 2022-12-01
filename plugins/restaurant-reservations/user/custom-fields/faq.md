@@ -4,7 +4,7 @@ slug: restaurant-reservations
 menu: user
 title: Frequently Asked Questions
 ---
-*The following frequently asked questions only cover the [Custom Fields](../custom-fields) addon.*
+*The following frequently asked questions only cover the [Custom Fields](../custom-fields) feature.*
 
 ## None of the buttons on the Custom Fields page work. When I click them nothing happens.
 
@@ -44,7 +44,5 @@ No. You can't perform any specific actions based on the value of your custom fie
 If you're comfortable working with WordPress hooks in the PHP code, check out the [developer documentation](../../../developer) for extensive opportunities to change the behaviour of notifications.
 
 {% include faq/support.md %}
-
-{% include faq/refund.md %}
 
 {% include faq/more-help.md %}

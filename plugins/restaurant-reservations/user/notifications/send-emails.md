@@ -2,7 +2,7 @@
 layout: default
 slug: restaurant-reservations
 menu: user
-title: Send Emails
+title: Manually Send an Email
 ---
 You can send a quick email to a customer from each booking. This is useful if you need to reject their booking but want to suggest an alternative. Or if you need to get in touch with them to confirm any further details.
 

@@ -8,14 +8,23 @@ All of the static labels/strings that appear on the front end of this plugin are
 
 *More info on WordPress localization can be found [here](https://developer.wordpress.org/plugins/internationalization/localization/).*
 
-Additionally, the FAQs are created using a **custom post type** (and the categories and tags created using taxonomies). This means they are translatable in the same way you would translate your regular pages and posts (i.e. any translation plugin that can translate pages should let you translate FAQs as well). You may just need to first enable our post type in your translation plugin's settings. For example, WPML [has options to enable specific post types](https://wpml.org/documentation/getting-started-guide/translating-custom-posts/), after which you can easily create different language versions of each of your FAQs.
-
 ## Included Translations
 
-In addition, a couple very kind users of the plugin have taken it upon themselves to translate the plugin into two other languages. We've included these translations in the **languages** folder. Current included languages are:
+In addition, a few very kind users of the plugin have taken it upon themselves to translate the plugin into other languages. We've included these translations in the **languages** folder. Current included languages are:
 
-- German (Germany)
+- Czech
+- Danish
+- German
+- Spanish (Chile)
+- Spanish (Spain)
+- French
+- Hebrew
 - Italian
+- Norwegian
+- Dutch
+- Polish
+- Portuguese (Brazil)
+- Russian
 
 If you have your WordPress site set to any of those languages, then the plugin will automatically make use of the included translation for that language.
 
@@ -29,7 +38,7 @@ We've put together a small guide on how to use Poedit to create a translation, w
 
 In order for WordPress and our plugin to properly recognize a new translation file you create, you must make sure to follow the naming convention of:
 
-`ultimate-faqs-pt_BR.po`
+`restaurant-reservations-pt_BR.po`
 
 Where **pt_BR** is the language code. So, in this case, Brazilian Portuguese. Make sure to upload both the *.mo* and *.po* files to the **languages** folder.
 

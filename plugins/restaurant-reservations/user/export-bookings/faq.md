@@ -24,7 +24,7 @@ Here are the complete steps:
 
 3. Edit the template however you'd like. Please note that the mPDF renderer is not as smart as a modern web browser. It only supports CSS 2.1 specifications, so it may not recognize all the CSS you're used to using. The TCPDF renderer is even tougher to work with.
 
-4. Upload the edited template file to your theme directory under a new `/templates/` directory. This will likely look like `/wp-content/themes/your-theme/templates/mpdf.php`.
+4. Upload the edited template file to your theme directory under a new `/ebfrtb_templates/` directory. This will likely look like `/wp-content/themes/your-theme/ebfrtb_templates/mpdf.php`.
 
 Once the template has been uploaded to your theme, the plugin will automatically use your template instead of the default one.
 

@@ -97,6 +97,26 @@ user:
     - title: Set up your Google Maps API Key
       page: user/settings/google-map-api-key
 
+  - title: Labelling and Translation
+    page: user/labelling
+    flags: labelling
+    items:
+    - title: Labelling Options
+      page: user/labelling/index
+
+    - title: Translating
+      page: user/labelling/translating
+
+    - title: Poedit
+      page: user/labelling/poedit
+
+  - title: Five Star Restaurant Manager Mobile App
+    page: user/fsrm
+    flags: fsrm
+    items:
+    - title: Install and Configure
+      page: user/fsrm/index
+
   - title: Advanced Topics
     page: user/advanced
     flags: advanced
@@ -106,6 +126,16 @@ user:
 
     - title: Build menus with complex layouts
       page: user/advanced/complex-layouts
+
+  - title: Support
+    page: user/support
+    flags: support
+    items:
+    - title: YouTube Tutorials
+      page: user/support/youtube
+
+    - title: Contact Us
+      page: user/support/contact
 
   - title: FAQ
     page: user/faq

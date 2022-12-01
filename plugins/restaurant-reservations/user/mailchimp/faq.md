@@ -4,7 +4,7 @@ slug: restaurant-reservations
 menu: user
 title: Frequently Asked Questions
 ---
-*The following frequently asked questions only cover the [MailChimp](../mailchimp) addon.*
+*The following frequently asked questions only cover the [MailChimp](../mailchimp) integration.*
 
 ## I can't connect the email address to my MailChimp merge field
 
@@ -17,5 +17,3 @@ Some themes have overwritten the booking form used by [Five Star Restaurant Rese
 Known themes that are problematic include the Nuvo and Aqua themes. Though others have cropped up from time to time.
 
 {% include faq/support.md %}
-
-{% include faq/refund.md %}

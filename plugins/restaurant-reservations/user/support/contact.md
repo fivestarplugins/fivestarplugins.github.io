@@ -6,7 +6,7 @@ title: Contact Us
 ---
 We've tried to make this documentation as thorough and accessible as possible. Neverthless, if you find yourself with a question or issue, for which you can't find an answer here, then please feel free to reach out to us for support. 
 
-[Visit our support center to contact us](https://www.etoilewebdesign.com/support-center/)
+[Visit our support center to contact us](https://www.fivestarplugins.com/support-center/)
 
 Our support is handled via email, Monday to Friday, 9am to 5pm EST (North American Eastern Standard Time). 
 

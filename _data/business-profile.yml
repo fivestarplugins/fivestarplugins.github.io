@@ -24,6 +24,52 @@ user:
     - title: Multiple Locations
       page: user/multiple-locations/locations
 
+  - title: Premium Version 
+    page: user/premium
+    flags: premium
+    items:
+    - title: Benefits of Premium
+      page: user/premium/benefits
+
+    - title: How to Purchase
+      page: user/premium/purchase
+
+    - title: Activate Premium
+      page: user/premium/activate
+
+    - title: Free 7-Day Trial
+      page: user/premium/trial      
+
+  - title: Labelling and Translation
+    page: user/labelling
+    flags: labelling
+    items:
+    - title: Labelling Options
+      page: user/labelling/index
+
+    - title: Translating
+      page: user/labelling/translating
+
+    - title: Poedit
+      page: user/labelling/poedit
+
+  - title: Five Star Restaurant Manager Mobile App
+    page: user/fsrm
+    flags: fsrm
+    items:
+    - title: Install and Configure
+      page: user/fsrm/index
+
+  - title: Support
+    page: user/support
+    flags: support
+    items:
+    - title: YouTube Tutorials
+      page: user/support/youtube
+
+    - title: Contact Us
+      page: user/support/contact
+
   - title: FAQ
     page: user/faq
     flags: faq

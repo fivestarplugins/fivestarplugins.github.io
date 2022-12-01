@@ -21,7 +21,4 @@ Ultimate features include:
     - View all new bookings directly in the app.
     - Change the status (e.g. to confirmed) and modify the other reservation info.
     - Check people in as they arrive.
-
-
-
-
+- Plus all the features of the premium version.

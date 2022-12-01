@@ -4,15 +4,17 @@ slug: restaurant-reservations
 menu: user
 title: Connect to MailChimp
 ---
-Once you've installed and activated the addon, a new tab will appear in your WordPress admin area at **Bookings > Settings > MailChimp**.
+You can access the MailChimp settings by going to **Settings > Advanced** and scrolling down to the **MailChimp** section.
 
-![Screenshot of the MailChimp api key prompt](/img/{{ page.slug }}/mailchimp-api-key.png)
+![Screenshot of the MailChimp api key prompt](/img/{{ page.slug }}/rtb-mailchimp-1.png)
 
-Before you can use the plugin, you need to connect to your MailChimp account. The link provided will help you create an API key for your MailChimp account that you can use here.
+Before you can use the feature, you need to connect to your MailChimp account. The link provided will help you create an API key for your MailChimp account that you can use here.
 
-Once you've successfully connected your API key, you'll see the full configuration options for this addon.
+{% include youtube.html id="Mp6n8Ph0Pm4?start=127" %}
 
-![Screenshot of the MailChimp addon settings page](/img/{{ page.slug }}/mailchimp-settings.png)
+Once you've successfully connected your API key, you'll see the full configuration options.
+
+![Screenshot of the MailChimp settings](/img/{{ page.slug }}/rtb-mailchimp-2.png)
 
 ## Select the subscribe list
 
