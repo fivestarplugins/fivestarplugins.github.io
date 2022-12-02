@@ -14,7 +14,6 @@ This user guide provides documentation for the Five Star Restaurant Menu plugin.
 - [Ordering](ordering)
 - [Custom Fields](custom-fields)
 - [Settings](settings)
-- [Styling](styling)
 - [Labelling and translation](labelling)
 - [Five Star Restaurant Manager Mobile App](fsrm)
 - [Advanced Topics](advanced)

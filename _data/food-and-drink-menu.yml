@@ -81,21 +81,50 @@ user:
     - title: How to Purchase
       page: user/premium/purchase
 
-    - title: Activate Premium
+    - title: Activate Premium or Ultimate
       page: user/premium/activate
 
     - title: Free 7-Day Trial
       page: user/premium/trial      
 
+  - title: Ordering 
+    page: user/ordering
+    flags: ordering
+    items:
+    - title: Enable and Configure
+      page: user/ordering/enable
+
+    - title: Payment
+      page: user/ordering/payment
+
+    - title: Notifications
+      page: user/ordering/notifications
+
+    - title: Manage Orders
+      page: user/ordering/manage
+
+  - title: Custom Fields 
+    page: user/custom-fields
+    flags: custom-fields
+    items:
+    - title: Enable and Configure
+      page: user/custom-fields/index
+
   - title: Settings
     page: user/settings
     flags: settings
     items:
-    - title: Settings
-      page: user/settings/settings
+    - title: Basic Settings
+      page: user/settings/basic
 
     - title: Set up your Google Maps API Key
-      page: user/settings/google-map-api-key
+      page: user/settings/google-maps-api-key
+
+    - title: Advanced Settings
+      page: user/settings/advanced
+
+    - title: Styling Settings
+      page: user/settings/styling
 
   - title: Labelling and Translation
     page: user/labelling

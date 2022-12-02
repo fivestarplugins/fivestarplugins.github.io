@@ -8,4 +8,4 @@ plugin_url: https://www.fivestarplugins.com/plugins/five-star-restaurant-reserva
 ---
 {% include plugins/install.md %}
 
-Now that you've installed the plugin, you'll want to run through some [initial setup tasks](setup).
+Now that you've installed the plugin, you'll want to run through the [walk-through](setup).

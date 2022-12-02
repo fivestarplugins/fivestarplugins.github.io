@@ -30,4 +30,4 @@ Then, to restart the walk-through, you would go to:
 
 `https://www.my-site.com/admin.php?page=bpfwp-getting-started`
 
-You're now ready to learn more about the [contact card](../contact) and about [schema](../schema).
+You're now ready to learn more about the [contact card](../contact-card) and about [schema](../schema).

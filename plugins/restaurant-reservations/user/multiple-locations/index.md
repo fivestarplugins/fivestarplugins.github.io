@@ -7,7 +7,7 @@ title: Multiple Locations
 
 By using the Five Star Restaurant Reservations plugin in combination with the [Five Star Business Profile and Schema](http://wordpress.org/plugins/business-profile/) plugin, you can enable multiple locations. It adds a location select field to your booking form and allows you to view and manage bookings by location.
 
-To get started, [install the Business Profile plugin](../../../business-profile/user/getting-started/install), [set up your restaurant profile](../../../business-profile/user/getting-started/setup) and then [enable multiple locations](../../../business-profile/user/multiple-locations).
+To get started, [install the Business Profile plugin](../../../business-profile/user/getting-started/install), [set up your restaurant profile](../../../business-profile/user/contact-card/business-info) and then [enable multiple locations](../../../business-profile/user/multiple-locations).
 
 Once you create a location using the Business Profile plugin, the booking form will add a Locations field.
 
@@ -21,7 +21,7 @@ You can click the tabs above the list to view only bookings for that location. O
 
 ## Configuring bookings for each location
 
-When using [Business Profile](http://wordpress.org/plugins/business-profile/) alongside [Five Star Restaurant Reservations](https://www.fivestarplugins.com/plugins/five-star-restaurant-reservations/), you'll find an additional set of configuration fields for each Location.
+When using [Business Profile](http://wordpress.org/plugins/business-profile/) alongside **Five Star Restaurant Reservations**, you'll find an additional set of configuration fields for each Location.
 
 If you go to the **Locations** page in your WordPress admin area and then click on a location, you'll find the following metabox.
 

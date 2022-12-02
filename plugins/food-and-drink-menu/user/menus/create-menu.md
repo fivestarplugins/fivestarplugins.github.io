@@ -8,7 +8,7 @@ To build a menu you will first create [menu items](items), assign them to sectio
 
 Go to the **Menus > Add Menu** page in your WordPress admin area. You'll see the following page:
 
-![Screenshot of the Add Menu page](/img/{{ page.slug }}/add-menu.png)
+![Screenshot of the Add Menu page](/img/{{ page.slug }}/fdm-menu-edit.png)
 
 You'll recognize the title and description areas, which work just like your Menu Item. For now, let's focus on the **Menu Layout** panel.
 

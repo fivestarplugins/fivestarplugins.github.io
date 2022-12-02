@@ -3,7 +3,7 @@ layout: default
 slug: restaurant-reservations
 menu: user
 plugin_title: Five Star Restaurant Reservations
-title: Styling Options
+title: Styling Settings
 ---
 The premium version of this plugin comes with many styling options, which can be accessed by navigating to **Settings > Styling**.
 

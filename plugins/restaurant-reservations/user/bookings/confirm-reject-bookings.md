@@ -42,3 +42,8 @@ This is useful in cases where a customer might phone in with a change to their b
 
 *When you edit a booking in this way, no notifications are sent to the customer by default. Check the __Send Notifications__ box if you want to send notifications out.*
 
+## Five Star Restaurant Manager Mobile App
+
+You can also manage your bookings directly in the [Five Star Restaurant Manage Mobile App](../fsrm). This way you can have your host view upcoming bookings and check guests in from a tablet front of house, all without having to log in to WordPress. And you can manage bookings on the go from your phone! 
+
+For more info about this, please see [here](../fsrm).

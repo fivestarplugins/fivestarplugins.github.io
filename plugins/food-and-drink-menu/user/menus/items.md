@@ -6,7 +6,7 @@ title: Menu Items
 ---
 To create a menu item, go to the **Menu Items > Add Menu Item** page in your WordPress admin area. You'll see the following:
 
-![Screenshot of the Add Menu Item page](/img/{{ page.slug }}/add-menu-item.png)
+![Screenshot of the Add Menu Item page](/img/{{ page.slug }}/fdm-menu-item-edit.png)
 
 A Menu Item represents one dish from your menu. Use this page to give your Menu Item a title, like "Butternut Squash Soup", and a description, like "A creamy butternut squash soup made with a slice of toast on the side".
 

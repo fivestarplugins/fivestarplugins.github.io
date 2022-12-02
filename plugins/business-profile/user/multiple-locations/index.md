@@ -6,13 +6,13 @@ title: Multiple Locations
 plugin_title: Business Profile
 plugin_url: https://wordpress.org/plugins/business-profile
 ---
-Support for multiple locations was added in version 1.1. To make use of this feature, you should enable the locations from the option at the bottom of your Business Profile.
+The Five Star Business Profile and Schema plugin comes with support for multiple locations. You can enable this feature by going to **Settings > Basic** and toggling on the **Multiple Locations** option at the bottom.
 
-![Screenshot of locations option](/img/{{ page.slug }}/locations-option.png)
+![Screenshot of locations option](/img/{{ page.slug }}/bpfwp-multiple-locations-enable.png)
 
 Once activated, you'll see a new **Locations** page appear in your WordPress admin area, where you can add and edit locations.
 
-![Screenshot of locations option](/img/{{ page.slug }}/locations-list.png)
+![Screenshot of locations option](/img/{{ page.slug }}/bpfwp-locations-list.png)
 
 When adding or editing a location, you'll be able to manage all the same information as your main Business Profile.
 

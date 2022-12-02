@@ -8,4 +8,4 @@ plugin_url: https://wordpress.org/plugins/business-profile
 ---
 {% include plugins/install.md %}
 
-Now that the plugin is installed and activated, you'll want to [set up your profile](setup).
+Now that the plugin is installed and activated, you'll want to run through [walk-through](setup).

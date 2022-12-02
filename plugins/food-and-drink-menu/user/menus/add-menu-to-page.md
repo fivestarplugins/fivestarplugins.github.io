@@ -6,7 +6,7 @@ title: Display Your Menu
 ---
 To add your menu to a page, you can use either the included Gutenberg block or shortcode.
 
-For the Gutenberg block, on the page edit screen, just click the + button to add a new block, search for **booking form** and add the **Booking Form** block to the page.
+For the Gutenberg block, on the page edit screen, just click the + button to add a new block, search for **Menu** and add that block to the page.
 
 ![Gif of adding the Menu block](/img/{{ page.slug }}/add-block.gif)
 
@@ -42,4 +42,4 @@ To use a different template, go to **Menus** and edit your menu. Look for the **
 
 This plugin also comes with widgets for displaying any Menu or Menu Item in a sidebar.
 
-You'll find these under the **Appearance > Widgets** page in your WordPress admin area. Simply add them to any widget area and select the Menu or Menu Item you wish to display.
+If you're not using a block theme, then you'll find these under the **Appearance > Widgets** page in your WordPress admin area. Simply add them to any widget area and select the Menu or Menu Item you wish to display.

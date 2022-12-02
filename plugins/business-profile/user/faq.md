@@ -6,75 +6,16 @@ title: Frequently Asked Questions
 ---
 Quick answers to your most common questions. Anything missing? [Let us know](https://www.fivestarplugins.com/support-center/).
 
-## <a name="shortcode"></a> Can I show or hide something with the shortcode?
+## <a name="shortcode"></a> Can I show or hide something with the block or shortcode?
 
-The shortcode, `[contact-card]`, supports a number of attributes you can use to show or hide part of your profile.
+Both the block and shortcode have parameters/attributes that you can use to hide or show specific contact card elements. For more info on these, please see the following documentation sections:
 
-Using `[contact-card show_name=0]` would show the whole contact card except for your business name. The following is a list of supported attributes:
-
-- `show_name` &mdash; Whether or not to show the name of the business.
-
-- `show_address` &mdash; Whether or not to show the address.
-
-- `show_get_directions` &mdash; Whether or not to show a link to Google maps with directions from the user's current location to the business's address.
-
-- `show_phone` &mdash; Whether or not to show your phone number.
-
-- `show_contact` &mdash; Whether or not to show a link to your contact page, if a contact page has been selected. Otherwise, it will show the email address if you've added one to the business profile.
-
-- `show_opening_hours` &mdash; Whether or not to show your opening hours.
-
-- `show_opening_hours_brief` &mdash; Whether or not to show a short, one-line version of your opening hours. This is turned off by default.
-
-- `show_map` &mdash; Whether or not to show a Google Map with your location.
-
-- `location` &mdash; An optional location post ID. If multi-locations are enabled, you can pass the ID of a location to display the contact card for that location instead of the main business profile.
-
-Most of these are turned on by default. But you can turn them off by including the attribute and setting it to `0`. The following would show only a map and none of the other details:
-
-`[contact-card show_name=0 show_address=0 show_get_directions=0 show_phone=0 show_contact=0 show_opening_hours=0]`
-
-The following would show the full contact card, but display the opening hours in a brief, one-line format:
-
-`[contact-card show_opening_hours_brief=1]`
+- [Block](blocks-shortcodes/contact-card-block)
+- [Shortcode](blocks-shortcodes/contact-card-shortcode)
 
 ## <a name="google-maps-api-key"></a> It asks me for a Google Maps API Key but I don't know what it is or how to get it.
 
-Google [now requires](https://googlegeodevelopers.blogspot.co.uk/2016/06/building-for-scale-updates-to-google.html) that you have your own API key to display a map on your website. This section walks you through the process of getting an API key.
-
-When entering your Business Profile, you'll see a Google Maps API key field.
-
-![Screenshot of the API Key field in Business Profile](/img/google-maps-api-key/gmaps-key-enter-key.png)
-
-Click the link in the field description that will take you to the Google Maps website. Then find the following button on the Google Maps website which reads **Get a Key**.
-
-![Screenshot of the Get Key button on Google Maps' website](/img/google-maps-api-key/gmaps-key-get-key.png)
-
-You'll then be asked to accept the terms of use for the API. Google puts limits on the amount of requests you can make in a day. It's currently set at 25,000 per day, which should be plenty for almost all restaurants.
-
-![Screenshot of the form to accept terms on Google Maps' website](/img/google-maps-api-key/gmaps-key-accept-terms.png)
-
-On the following screen, you'll be asked to set a Name and the websites this will be active on.
-
-![Screenshot of the form to enter domain details on Google Maps' website](/img/google-maps-api-key/gmaps-key-enter-domain.png)
-
-Enter whatever you'd like in the Name. The other part, **Accept requests from these HTTP referrers (web sites)** can be a bit more tricky.
-
-The simplest way to do this is to replace `fivestarplugins.com` in the screenshot with your domain name. So if your site is `myrestaurant.com`, you would use:
-
-`myrestaurant.com/*`
-
-This will allow you to display the map anywhere on your domain.
-
-Once you've set this up, click the **Create** button to generate your API key. It will then be provided for you and you can click the small icon on the right to copy it.
-
-![Screenshot of the form to copy your API key from Google Maps' website](/img/google-maps-api-key/gmaps-key-copy-key.png)
-
-Paste that key into the API Key field in your Business Profile settings. Then save your settings.
-
-![Screenshot of the API Key field in Business Profile](/img/google-maps-api-key/gmaps-key-enter-key.png)
-
-**Please note:** Google says it may take up to 5 minutes for your key to take effect. In my experience, it could take even longer. You may continue to see an error in your map for up to 30 minutes, so give it plenty of time.
+Google now requires that you have your own API key to display a map on your website. With this in mind, we have [prepared a tutorial](settings/google-maps-api-key) to help you create a Google API key and add it to the plugin. 
 
 ## <a name="map-latlon"></a> Google Maps shows my business in the wrong location
 
@@ -96,4 +37,8 @@ You may not find a type that's a perfect match for your business. Choose the opt
 
 ## <a name="support"></a> How do I contact support?
 
-I provide the best support for the free plugin that I'm able to provide for free. But there is only so much I'm able to do while keeping my business sustainable. Still, I'd encourage you to [post your support request on the official forums](http://wordpress.org/support/plugin/business-profile) and I'll help out as best I can.
+We provide the best support for the free plugin that We're able to provide for free. But there is only so much we're able to do while keeping the business sustainable. Still, we'd encourage you to [post your support request on the official forums](http://wordpress.org/support/plugin/business-profile) and we'll help out as best we can.
+
+If you are using the premium version of the plugin, please reach out to us via the [support center on our website](https://www.fivestarplugins.com/support-center/).
+
+{% include faq/refund.md %}

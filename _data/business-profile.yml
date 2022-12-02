@@ -17,12 +17,48 @@ user:
     - title: Walk-Through
       page: user/getting-started/setup
 
+  - title: Contact Card
+    page: user/contact-card
+    flags: contact-card
+    items:
+    - title: Enter Business Info
+      page: user/contact-card/business-info
+
+    - title: Opening Hours
+      page: user/contact-card/opening-hours
+
+    - title: Add Contact Card to a Page
+      page: user/contact-card/add-to-page
+
   - title: Multiple Locations
     page: user/multiple-locations
     flags: multiple-locations
     items:
     - title: Multiple Locations
-      page: user/multiple-locations/locations
+      page: user/multiple-locations/index
+
+  - title: Schema 
+    page: user/schema
+    flags: schema
+    items:
+    - title: Create Schema Rules
+      page: user/schema/create
+
+    - title: WooCommerce Integration
+      page: user/schema/woocommerce
+
+    - title: Structured Data for Posts
+      page: user/schema/posts
+
+  - title: Block and Shortcode
+    page: user/blocks-shortcodes
+    flags: blocks-shortcodes
+    items:
+    - title: Contact Card Block
+      page: user/blocks-shortcodes/contact-card-block
+
+    - title: contact-card Shortcode
+      page: user/blocks-shortcodes/contact-card-shortcode
 
   - title: Premium Version 
     page: user/premium
@@ -39,6 +75,19 @@ user:
 
     - title: Free 7-Day Trial
       page: user/premium/trial      
+
+  - title: Settings
+    page: user/settings
+    flags: settings
+    items:
+    - title: Basic Settings
+      page: user/settings/basic
+
+    - title: Set up your Google Maps API Key
+      page: user/settings/google-maps-api-key
+
+    - title: Premium Settings
+      page: user/settings/premium
 
   - title: Labelling and Translation
     page: user/labelling

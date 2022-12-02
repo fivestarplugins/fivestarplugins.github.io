@@ -69,7 +69,7 @@ user:
     - title: How to Purchase
       page: user/premium/purchase
 
-    - title: Activate Premium
+    - title: Activate Premium or Ultimate
       page: user/premium/activate
 
     - title: Free 7-Day Trial

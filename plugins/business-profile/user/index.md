@@ -7,11 +7,12 @@ title: Five Star Business Profile and Schema User Guide
 This user guide provides documentation for the Five Star Business Profile and Schema plugin. It covers the following topics:
 
 - [Installing the plugin](getting-started/install)
-- [Contact Card](contact)
+- [Contact Card](contact-card)
+- [Multiple Locations](multiple-locations)
 - [Schema](schema)
 - [Block and Shortcode](blocks-shortcodes)
 - [Premium Version](premium)
-- [Multiple Locations](multiple-locations)
+- [Settings](settings)
 - [Labelling and Translation](labelling)
 - [Five Star Restaurant Manager Mobile App](fsrm)
 - [Support](support)
