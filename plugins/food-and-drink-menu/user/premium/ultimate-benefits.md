@@ -4,7 +4,7 @@ slug: food-and-drink-menu
 menu: user
 title: Benefits of the Ultimate Version
 ---
-The ultimate version gives you a complete food ordering system on your website. Guests can add menu items to a cart, check out and optionally pay for their order. It also includes email and SMS notifications as well as access to the [Five Star Restaurant Manager mobile app](../fsrm).
+The ultimate version gives you a complete food ordering system on your website. Guests can add menu items to a cart, check out and optionally pay for their order. It also includes email <!-- and SMS -->notifications as well as access to the [Five Star Restaurant Manager mobile app](../fsrm).
 
 Ultimate features include:
  
@@ -13,7 +13,7 @@ Ultimate features include:
 - Require payment immediately or give your customer the option to pay in store.
 - Both Stripe and PayPal available as payment gateways.
 - Email notifications both to you and your customers for new orders and order updates.
-- SMS notifications for new orders.
+<!-- - SMS notifications for new orders. -->
 - Easy-to-use admin interface lets you quickly manage orders.
 - Syncs directly with the Five Star Restaurant Manager mobile app (iOS and Android), so you can manage the orders in the kitchen or on the go.
 - Plus all the features of the premium version.
