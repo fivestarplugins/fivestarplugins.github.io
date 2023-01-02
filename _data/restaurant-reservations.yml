@@ -145,6 +145,9 @@ user:
     - title: Enable and Configure
       page: user/payments/index
 
+    - title: Custom Payment Gateway
+      page: user/payments/custom-gateway
+
   - title: Export Bookings 
     page: user/export-bookings
     flags: export-bookings
