@@ -4,7 +4,7 @@ slug: food-and-drink-menu
 menu: user
 title: Notifications
 ---
-Whenever a new order is placed on your website, a notification will be automatically sent to the admin. There is also an option to send a notification to the customer<!-- , either via email or SMS -->.
+Whenever a new order is placed on your website, a notification will be automatically sent to the admin. There is also an option to send a notification to the customer, either via email or SMS.
 
 ## Admin Notification
 
@@ -16,15 +16,15 @@ You can then specify the content of the admin notifcation emails using the **Adm
 
 ## Customer Notifications
 
-You can also optionally have a notification automatically sent to the customer when they place an order on your site.<!-- This can be either an SMS or email notification.-->
+You can also optionally have a notification automatically sent to the customer when they place an order on your site. This can be either an SMS or email notification.
 
 You can specify the content of the customer notifications using the **Customer Notification Subject** and **Customer Notification Email** fields. In the **Customer Notification Email** field, you can make use of template tags that will automatically fill in specific order information, such as the customer name and the items ordered. A full list of available tags is shown below in the ***Template Tags*** section.
 
 ![Screenshot of the ordering customer notification settings](/img/{{ page.slug }}/fdm-ordering-customer-notification-settings.png)
 
-<!-- ### SMS
+### SMS
 
-If you would like to send an SMS notification, then you need to fill in the **"Ultimate" Purchase Email** option with the email address you used to purchase the ultimate version, so your SMS credits can be linked and available.  -->
+If you would like to send an SMS notification, then you need to fill in the **"Ultimate" Purchase Email** option with the email address you used to purchase the ultimate version, so your SMS credits can be linked and available.
 
 ### Email
 
