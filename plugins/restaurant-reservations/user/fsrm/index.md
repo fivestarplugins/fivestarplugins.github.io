@@ -4,7 +4,7 @@ slug: restaurant-reservations
 menu: user
 title: Five Star Restaurant Manager Mobile App
 ---
-The Five Star Restaurant Manager Mobile App lets you manage your restaurant’s reservations directly from your tablet or phone. It integrates with the [Ultimate](../premium/ultimate-benefits) version of the Five Star Restaurant Reservations plugin and is available for iOS and Android.
+The Five Star Restaurant Manager Mobile App lets you manage your restaurant’s reservations directly from your tablet or phone and receive push notifications for new bookings. It integrates with the [Ultimate](../premium/ultimate-benefits) version of the Five Star Restaurant Reservations plugin and is available for iOS and Android.
 
 - [Download for iOS](https://apps.apple.com/app/five-star-restaurant-manager/id1616554029)
 - [Download for Android](https://play.google.com/store/apps/details?id=com.fivestarplugins.fsrm)
@@ -22,6 +22,10 @@ To generate your API key, you need to log in to your WordPress admin panel and g
 ![Screenshot of the API settings page](/img/{{ page.slug }}/api-key.png)
 
 This is the key you can input on the Account screen in the app. Don’t forget to also input your site URL. After you click save, it will automatically link the app to your site. You only have to do this once, after which it will remain connected. From then on, you no longer need to log in to your WordPress site to manage your bookings!
+
+## Push Notifications
+
+The app will send a push notification every time a new booking is made on your site. After you save the Account page for the first time, you will receive a request to allow notifications from the app. You need to allow this in order to receive the push notifications.
 
 ## How to Use
 

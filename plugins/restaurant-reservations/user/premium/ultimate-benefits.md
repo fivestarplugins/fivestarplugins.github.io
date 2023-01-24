@@ -18,6 +18,7 @@ Ultimate features include:
 - Late-Arrival Notices: Send an SMS or email message when a guest is late for their reservation by a specified amount of time.
 - Post-Reservation Follow-Up: Send a follow-up SMS or email message a specified amount of time after the reservation (e.g. 18 hours, 2 days, etc.). This can be used to get customer feedback, request a review, offer a promotion, or anything else!
 - Access to the Five Star Restaurant Manager mobile app.
+    - Receive push notifications for new bookings.
     - View all new bookings directly in the app.
     - Change the status (e.g. to confirmed) and modify the other reservation info.
     - Check people in as they arrive.

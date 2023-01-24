@@ -15,7 +15,7 @@ Ultimate features include:
 - Email notifications both to you and your customers for new orders and order updates.
 - SMS notifications for new orders.
 - Easy-to-use admin interface lets you quickly manage orders.
-- Syncs directly with the Five Star Restaurant Manager mobile app (iOS and Android), so you can manage the orders in the kitchen or on the go.
+- Syncs directly with the Five Star Restaurant Manager mobile app (iOS and Android), so you can receive push notifications for new orders and manage the orders in the kitchen or on the go.
 - Plus all the features of the premium version.
 
 

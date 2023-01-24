@@ -32,7 +32,7 @@ It is clearly indicated in the cart whether or not you have currently selected t
 
 The ultimate license has only one purchase option, which is a single site. Due to the nature of the associated SMS account and credits, multi-site licenses are not possible with the ultimate version.
 
-Also, the ultimate purchase is not a lifetime license. It is an annual subscription. This is required due to ongoing costs, such as the SMS credits. If you cancel your ultimate plan subscription, you will lose access to the ultimate version at the end of the current subscription term.
+Also, the ultimate purchase is not a lifetime license. It is available as either a monthly or an annual subscription. This is required due to ongoing costs, such as the SMS credits. If you cancel your ultimate plan subscription, you will lose access to the ultimate version at the end of the current subscription term.
 
 Premium support is included with each ultimate license. There is no further subscription or payment necessary for this.
 
