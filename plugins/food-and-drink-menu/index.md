@@ -11,5 +11,5 @@ The following help is divided into two sections, depending on your needs.
 ## User Guide ##
 For help learning how to install the plugin, create menus and display them on your website, visit the [User Guide](user).
 
-## Developer Documentation (Archived) ##
+## Developer Documentation ##
 For programmers interested in writing custom code to extend, customize or augment the plugin's functionality, visit the [Developer Documentation](developer).
