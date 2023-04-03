@@ -60,8 +60,8 @@ At the bottom of the nofitications table, it will display the status of your ult
 
 For more info about the credits, please see [here](https://www.fivestarplugins.com/ufaqs/what-are-sms-message-credits/).
 
-## Tutorial Video
+<!-- ## Tutorial Video
 
 We have also prepared a video that explains all of the reservation reminder settings, which you can view below.
 
-{% include youtube.html id="s1LnEb6xuXw?start=206" %}
+{% include youtube.html id="s1LnEb6xuXw?start=206" %} -->
