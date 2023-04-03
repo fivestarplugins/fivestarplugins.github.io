@@ -88,8 +88,8 @@ user:
     - title: Template Tags
       page: user/notifications/template-tags
 
-    - title: Reservation Reminders (SMS and Email)
-      page: user/notifications/reservation-reminders
+    - title: Notifications Table
+      page: user/notifications/notifications-table
 
     - title: Daily Summary
       page: user/notifications/daily-summary

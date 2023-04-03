@@ -35,3 +35,13 @@ Send an email notification to an administrator when a booking is cancelled.
 ### Admin Email Address
 
 The email address where admin notifications should be sent.
+
+## Premium Version
+
+In the premium version of the plugin, some of the above options have been combined into the [notifications table](notifications-table) configuration tool. As such, the only options necessary in the above section, in the premium version, are **Reply-To Name**, **Reply-To Email Address** and **Admin Email Address**.
+
+![Screenshot of the notifications settings in the premium version](/img/{{ page.slug }}/rtb-notifications-premium-general.png)
+
+Additionally, you'll find the **Admin Update Subject** option just below the list of [template tags](template-tags). This allows you to specify the email subject a user should receive when an admin sends them a custom email message from the Bookings panel.
+
+![Screenshot of the admin update subject option in the notifications settings](/img/{{ page.slug }}/rtb-admin-update-subject.png)
