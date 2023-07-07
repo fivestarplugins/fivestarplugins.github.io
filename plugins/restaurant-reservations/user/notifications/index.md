@@ -20,7 +20,6 @@ In this section, we cover the different notification options and settings. For a
 - [Email Content](email-content)
 - [Template Tags](template-tags)
 - [Notifications Table](notifications-table)
-- [Reservation Reminders (SMS and Email)](reservation-reminders)
 - [Daily Summary](daily-summary)
 - [Manually Send Email](send-emails)
 - [Troubleshooting](troubleshooting)
