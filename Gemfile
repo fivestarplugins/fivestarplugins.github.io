@@ -1,5 +1,11 @@
 source "https://rubygems.org"
 
-gem 'github-pages'
+gem "github-pages"
 
-gem "webrick", "~> 1.8"
+gem "jekyll"
+
+gem "jekyll-feed"
+
+gem "jekyll-mentions"
+
+gem "webrick"

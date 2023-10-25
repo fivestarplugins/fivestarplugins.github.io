@@ -138,6 +138,9 @@ user:
     - title: Add Tables to Your Booking Form
       page: user/tables/index
 
+    - title: Table Layout Graphic
+      page: user/tables/graphic
+
   - title: Payments/Deposits
     page: user/payments
     flags: payments

@@ -256,7 +256,10 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  webrick (~> 1.8)
+  jekyll
+  jekyll-feed
+  jekyll-mentions
+  webrick
 
 BUNDLED WITH
    2.3.14

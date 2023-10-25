@@ -11,6 +11,7 @@ Ultimate features include:
 - Booking by Table: Add your restaurant’s tables to the plugin and allow (or require) guests to select a table when they make their reservation, based on the booking time and party size.
     - You can set a minimum and maximum number of seats at each table.
     - You can also combine tables to let people book for large parties.
+    - Add a [table layout graphic](../tables/graphic) to your booking form. 
 - Booking Deposits: Require a deposit, either per guest or per reservation, when someone makes a reservation to help prevent no-shows.
     - Both Stripe and PayPal are available as payment gateways.
     - Options to require deposit only for certain party sizes or only at certain times.
