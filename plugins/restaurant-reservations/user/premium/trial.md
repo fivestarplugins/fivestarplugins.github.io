@@ -7,7 +7,7 @@ title: Free 7-Day Trial
 ---
 We offer a free 7-day trial of the premium or ultimate version, so you can test it on your site, to see if it's a good fit, before buying.
 
-The premium trial gives full access, with no restrictions. The ultimate trial gives you access to all ultimate features except the SMS messaging. 
+The premium trial gives full access, with no restrictions. The ultimate trial gives you access to all ultimate features except the SMS messaging and the API/mobile app. 
 
 You can only activate either the premium or ultimate trial. For example, if you activate the premium trial, you will not be able to activate the ultimate trial in the future. So, if you believe you may be interested in the ultimate version, please activate that trial, so you can test both premium and ultimate features.
 
