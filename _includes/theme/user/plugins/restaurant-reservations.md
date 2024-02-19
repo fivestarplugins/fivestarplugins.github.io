@@ -1,7 +1,5 @@
-## <a name="restaurant-reservations"></a>Five Star Restaurant Reservations
+### <a name="restaurant-reservations"></a>Five Star Restaurant Reservations
 
-Accept restaurant reservations and table bookings online. Quickly confirm or reject bookings, send email notifications, set booking times and more.
+Accept restaurant reservations and table bookings online. Quickly confirm or reject bookings, send email and SMS notifications, accept deposits, and much more.
 
-Built by Five Star Plugins, my flagship plugin receives [wildly positive reviews](http://wordpress.org/support/view/plugin-reviews/restaurant-reservations).
-
-Read the [user guide](/plugins/restaurant-reservations).
+Read the [documentation](/plugins/restaurant-reservations).
