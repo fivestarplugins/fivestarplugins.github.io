@@ -2,6 +2,6 @@
 layout: landing
 title: Theme Documentation
 ---
-[Five Star Plugins](https://www.fivestarplugins.com) provides [well-built WordPress themes to make your restaurant shine](https://www.fivestarplugins.com/themes).
+[Five Star Plugins](https://www.fivestarplugins.com) has created a new [block theme designed specifically for restaurants](https://www.fivestarplugins.com/themes/restaurant-block/).
 
-This site provides user guides for all of Five Star Plugins's themes. To find the product you'd like to learn more about, select from the list below.
+This site provides a user guide for this Five Star Plugins theme.
