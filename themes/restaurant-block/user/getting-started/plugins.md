@@ -9,7 +9,7 @@ In order to fully utilize all the features of this theme, and to make the best r
 {% include theme/user/plugins/restaurant-reservations.md %}
 {% include theme/user/plugins/food-and-drink-menu.md %}
 {% include theme/user/plugins/business-profile.md %}
-{% include theme/user/plugins/good-reviews-wp.md %}
+{% include theme/user/plugins/ultimate-faq.md %}
 
 ## Activate Plugins
 
