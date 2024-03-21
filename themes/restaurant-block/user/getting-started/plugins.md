@@ -13,10 +13,6 @@ In order to fully utilize all the features of this theme, and to make the best r
 
 ## Activate Plugins
 
-To install and activate each plugin:
+After activating the theme, you will see a new item in the WordPress **Appearance** menu called **Restaurant Block Theme**. Click this to open the Restaurant Block Theme admin dashboard. Here you will find a **Recommended Plugins** section. All you have to do is click the button for each plugin you require and it will automatically install the plugin directly from the WordPress respository.
 
-1. Go to the **Plugins** page in your WordPress admin area.
-2. Click the **Add Plugin** link at the top of the page.
-3. In the search panel on the right, enter the name of the plugin (e.g. Five Star Restaurant Reservations) and hit enter/return.
-4. Find the plugin in the list, click the **Install Now** button, and follow the instructions.
-5. Once installed, click the **Activate Now** link. If you don't see that link, you can go to your **Plugins** list at any time and activate it from there.
+![Screenshot of the Restaurant Block Theme dashboard screen](/img/theme/{{ page.slug }}/rbt-admin-dashboard.png)

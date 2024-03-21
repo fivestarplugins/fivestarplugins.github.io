@@ -5,5 +5,5 @@ menu: user
 title: Changelog
 ---
 
-## 1.0.0 (2024-01-01)
+## 0.3 (2024-03-21)
 * Initial Release

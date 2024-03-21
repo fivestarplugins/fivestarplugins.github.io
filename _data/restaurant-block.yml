@@ -32,63 +32,26 @@ user:
     - title: Configure Homepage
       page: user/homepage
 
-  - title: FAQ
-    page: user/faq
-    flags: faq
+  - title: Translation
+    page: user/translation
+    flags: translation
     items:
-    - title: How do I change the colors of my site?
-      page: user/faq#colors
+    - title: WP Community Translation
+      page: user/translation/community
 
-    - title: How do I add my logo?
-      page: user/faq#logo
+    - title: Language Plugins
+      page: user/translation/plugins
 
-    - title: How do I add my address to the bottom of my site?
-      page: user/faq#footer-address
-
-    - title: How do I build a homepage like the demo?
-      page: user/faq#homepage
-
-    - title: How do I build my restaurant's menu?
-      page: user/faq#menu
-
-    - title: How do I take reservations for my restaurant?
-      page: user/faq#reservations
-
-    - title: How do I display my restaurant's contact details?
-      page: user/faq#business-profile
-
-    - title: How do I add reviews of my restaurant?
-      page: user/faq#reviews
-
-    - title: How do I promote my restaurant's events?
-      page: user/faq#events
-
-    - title: How do I improve my restaurant's SEO?
-      page: user/faq#seo
-
-    - title: How do I add icons which link to my social media profiles?
-      page: user/faq#social-profile-menu
-
-    - title: How can I create a photo gallery that opens in a lightbox like the demo?
-      page: user/faq#photo-gallery
-
-    - title: Can I hide the sidebar on just one page?
-      page: user/faq#full-width-page-template
-
-    - title: Can I make changes to the CSS styles?
-      page: user/faq#css-changes
-
-    - title: How can I change the fonts?
-      page: user/faq#typecase
-
-    - title: How do I contact support?
-      page: user/faq#support
-
-    - title: Can I get a refund?
-      page: user/faq#refund
-
-    - title: I'm in over my head. Where can I get more hands-on help?
-      page: user/faq#more-help
+  - title: Support
+    page: user/support
+    flags: support
+    items:
+    - title: Contact Us
+      page: user/support/contact
 
   - title: Changelog
     page: user/changelog
+    flags: changelog
+    items:
+    - title: View Changelog
+      page: user/changelog/index
