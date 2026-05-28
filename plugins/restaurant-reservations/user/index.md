@@ -22,6 +22,7 @@ This user guide provides documentation for the Five Star Restaurant Reservations
 - [Settings](settings)
 - [Labelling and translation](labelling)
 - [Five Star Restaurant Manager Mobile App](fsrm)
+- [In-Admin Help & AI Assistant](aiaa)
 - [Support](support)
 
 There's also an [FAQ](faq) that answers many of the most common questions. And a [support forum](https://wordpress.org/support/plugin/restaurant-reservations) for the free plugin.
