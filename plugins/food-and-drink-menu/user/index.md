@@ -17,6 +17,7 @@ This user guide provides documentation for the Five Star Restaurant Menu plugin.
 - [Labelling and translation](labelling)
 - [Five Star Restaurant Manager Mobile App](fsrm)
 - [Advanced Topics](advanced)
+- [In-Admin Help & AI Assistant](aiaa)
 - [Support](support)
 
 There's also an [FAQ](faq) that answers many of the most common questions. And a [support forum](https://wordpress.org/support/plugin/food-and-drink-menu) for the free plugin.
