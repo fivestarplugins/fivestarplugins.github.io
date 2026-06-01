@@ -109,6 +109,19 @@ user:
     - title: Install and Configure
       page: user/fsrm/index
 
+  - title: In-Admin Help & AI Assistant
+    page: user/aiaa
+    flags: aiaa
+    items:
+    - title: Install & Configure
+      page: user/aiaa/install
+
+    - title: Access & Use Help Panel
+      page: user/aiaa/use
+
+    - title: AI Assistant
+      page: user/aiaa/ai-assistant
+
   - title: Support
     page: user/support
     flags: support
